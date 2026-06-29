@@ -2,6 +2,7 @@ feedparser==6.0.11
 python-dateutil==2.9.0.post0
 PyYAML==6.0.2
 requests==2.32.3
+httpx==0.27.2
 
 # Pick the package for whichever provider you actually use.
 # Both are listed so you don't need to edit this file when switching.
