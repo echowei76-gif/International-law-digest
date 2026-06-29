@@ -1,0 +1,172 @@
+{
+  "topics": [
+    {
+      "title": "EU-Mercosur Agreement and the Limits of the Brussels Effect",
+      "framing": "The EU and Mercosur signed a Partnership Agreement on 17 January 2026 after over two decades of negotiations, creating one of the world's largest free trade areas. The European Parliament has requested a CJEU opinion on the agreement's compatibility with EU Treaties, and debates continue over the EU's ability to impose its regulatory standards unilaterally through the 'Brussels Effect' without mirror clauses.",
+      "mainstream_view": "The agreement is a landmark achievement that will boost economic and political cooperation between two major regions, and the EU's high regulatory standards can serve as a model for global trade, though the absence of mirror clauses may limit the extraterritorial reach of EU norms in areas like environmental and labor protection.",
+      "global_south_view": "The agreement risks perpetuating asymmetrical trade relations, as the EU's push for regulatory convergence without mirror clauses may impose costly compliance burdens on Mercosur countries while limiting their policy space for industrial development and environmental sovereignty.",
+      "convergence_score": 2,
+      "convergence_note": "Both sides recognize the significance of the agreement, but diverge sharply on whether its regulatory framework benefits both parties equitably or entrenches Northern dominance.",
+      "mainstream_sources": [
+        {
+          "title": "Unilateral Regulation Without Mirror Clauses? The Limits of the EU's Brussels Effect in the EU\u2013Mercosur Agreement",
+          "url": "https://opiniojuris.org/2026/06/24/unilateral-regulation-without-mirror-clauses-the-limits-of-the-eus-brussels-effect-in-the-eu-mercosur-agreement/"
+        },
+        {
+          "title": "The Haunted EU-Mercosur Agreement: Recent Developments",
+          "url": "https://asil.org/wp-content/uploads/2026/04/ASIL_Insights_2026_V30_I5.pdf"
+        },
+        {
+          "title": "Mercosur\u2013EU Agreement: A Singular Case or a Constructed Controversy?",
+          "url": "https://www.intereconomics.eu/contents/year/2026/number/3/article/mercosur-eu-agreement-a-singular-case-or-a-constructed-controversy.html"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "Unilateral Regulation Without Mirror Clauses? The Limits of the EU's Brussels Effect in the EU\u2013Mercosur Agreement",
+          "url": "https://opiniojuris.org/2026/06/24/unilateral-regulation-without-mirror-clauses-the-limits-of-the-eus-brussels-effect-in-the-eu-mercosur-agreement/"
+        }
+      ]
+    },
+    {
+      "title": "Climate Justice and Procedural Rights in International Courts",
+      "framing": "International courts, particularly the European Court of Human Rights and the Inter-American Court of Human Rights, have recently issued landmark rulings linking climate change to human rights obligations, emphasizing procedural rights such as standing, access to justice, and states' positive duties to protect against climate harms. The ECtHR's 2024 KlimaSeniorinnen judgment found Switzerland violated Article 8 (private and family life) and Article 6 (access to court) for inadequate climate mitigation.",
+      "mainstream_view": "These rulings represent a progressive evolution of human rights law, affirming that states have procedural and substantive duties to address climate change, and that courts can legitimately enforce these obligations within existing human rights frameworks, thereby strengthening the rule of law and accountability.",
+      "global_south_view": "While the rulings are welcome, they largely reflect Northern legal frameworks and may not address the structural inequalities and historical responsibilities of developed countries for climate change; Global South litigants often face barriers in accessing these courts, and the focus on procedural rights can divert attention from the need for redistributive climate justice and binding emissions reductions.",
+      "convergence_score": 3,
+      "convergence_note": "Both sides agree that procedural rights are important tools for climate accountability, but diverge on whether the current judicial approach adequately addresses the disproportionate impacts on developing countries and the need for systemic change.",
+      "mainstream_sources": [
+        {
+          "title": "Procedural Rights in Climate Cases Before the ECtHR",
+          "url": "https://verfassungsblog.de/procedural-rights-climate-cases-ecthr"
+        },
+        {
+          "title": "Climate Justice Unlocked",
+          "url": "https://verfassungsblog.de/climate-justice-unlocked"
+        },
+        {
+          "title": "International Law After KlimaSeniorinnen",
+          "url": "https://link.springer.com/article/10.1007/s40802-026-00287-1"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "Climate Justice Unlocked",
+          "url": "https://verfassungsblog.de/climate-justice-unlocked"
+        }
+      ]
+    },
+    {
+      "title": "Fossil Fuel Transition and the Duty to Cooperate under International Law",
+      "framing": "The First Conference on Transitioning Away from Fossil Fuels took place in Santa Marta, Colombia from 24-29 April 2026, co-hosted by Colombia and the Netherlands, building on COP30 momentum. The conference aimed to foster international cooperation for a just transition away from fossil fuels, with participating nations discussing a Fossil Fuel Non-Proliferation Treaty.",
+      "mainstream_view": "This conference marks a crucial step in shifting global climate negotiations from managing emissions to directly addressing fossil fuel production, and the duty to cooperate under international law provides a legal basis for collective action, though the process remains voluntary and non-binding, relying on state-led initiatives and market mechanisms.",
+      "global_south_view": "The conference is a positive but insufficient move; Global South countries emphasize that any phase-out must be equitable, with developed countries bearing the primary responsibility for historical emissions and providing financial and technological support for a just transition, while ensuring that developing countries retain policy space to pursue their own development paths.",
+      "convergence_score": 3,
+      "convergence_note": "Both sides recognize the need for international cooperation on fossil fuel phase-out, but disagree on the distribution of responsibilities and the adequacy of voluntary frameworks versus binding commitments.",
+      "mainstream_sources": [
+        {
+          "title": "What the First Conference on Transitioning Away from Fossil Fuels Means for the Duty to Co-operate",
+          "url": "http://opiniojuris.org/2026/06/29/what-the-first-conference-on-transitioning-away-from-fossil-fuels-means-for-the-duty-to-co-operate/"
+        },
+        {
+          "title": "The First Conference on Transitioning Away from Fossil Fuels",
+          "url": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2026/786412/ECTI_BRI(2026)786412_EN.pdf"
+        },
+        {
+          "title": "Towards a Principle-Based Framework for an Equitable Global Fossil Fuel Phase-Out",
+          "url": "https://www.cambridge.org/core/journals/international-and-comparative-law-quarterly/article/towards-a-principlebased-framework-for-an-equitable-global-fossil-fuel-phaseout/93E8464400E04B5BA9BCCE03FFB62B75"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "Colombia Announces 1st International Phase-Out Conference \u2014 Fossil Fuel Treaty",
+          "url": "https://www.fossilfueltreaty.org/phase-out-conference"
+        }
+      ]
+    },
+    {
+      "title": "Tax Cooperation and Global South Perspectives on International Economic Law",
+      "framing": "Negotiations for a UN Framework Convention on International Tax Cooperation are underway, with the fourth round held in February 2026. The South Centre has published policy briefs on making wealth taxes work in developing countries and on the OECD Two-Pillar Solution, highlighting concerns about the design of global tax rules.",
+      "mainstream_view": "The OECD-led Two-Pillar Solution represents a historic multilateral effort to address tax challenges of digitalization and base erosion, providing a framework for fairer tax allocation among countries, and the UN process should complement rather than duplicate these efforts to avoid fragmentation.",
+      "global_south_view": "The OECD process has been dominated by developed countries and fails to adequately address the needs of developing countries, which require a more inclusive UN-led framework that prioritizes taxing wealthy individuals and corporations, prevents profit shifting, and supports domestic resource mobilization through progressive wealth taxes.",
+      "convergence_score": 2,
+      "convergence_note": "Both sides agree on the need for improved international tax cooperation, but fundamentally disagree on the appropriate forum (OECD vs. UN) and the substantive priorities (protecting corporate interests vs. enhancing fiscal sovereignty of developing countries).",
+      "mainstream_sources": [
+        {
+          "title": "Tax Cooperation Policy Brief No. 42, 23 June 2026",
+          "url": "https://www.southcentre.int/tax-cooperation-policy-brief-no-42-23-june-2026"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "Tax Cooperation Policy Brief No. 42, 23 June 2026",
+          "url": "https://www.southcentre.int/tax-cooperation-policy-brief-no-42-23-june-2026"
+        },
+        {
+          "title": "South Centre Inputs to INC on UNFCITC, February-March 2026",
+          "url": "https://www.southcentre.int/south-centre-inputs-to-inc-on-unfcitc-february-march-2026"
+        },
+        {
+          "title": "The UN Framework Convention on International Tax Cooperation",
+          "url": "https://globaltaxjustice.org/wp-content/uploads/2026/02/EN-CSO-Brief.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Maritime Delimitation Risk and Contractual Allocation in Offshore Leases",
+      "framing": "In February 2026, Greece signed offshore lease agreements with a Chevron-led consortium for oil and gas exploration south of Crete, including a novel clause that compensates the investor if a future maritime delimitation agreement with neighboring states reduces Greece's jurisdiction over the contracted area. This contractual allocation of delimitation risk raises questions about sovereignty and investment protection.",
+      "mainstream_view": "This innovative contractual clause provides legal certainty for investors by clearly allocating the risk of future maritime boundary changes, thereby encouraging investment in disputed areas while respecting the state's sovereign right to negotiate delimitation agreements; it is a pragmatic tool that balances investor protection with state flexibility.",
+      "global_south_view": "Such clauses risk commodifying sovereignty and may pressure states to prioritize investor compensation over their sovereign rights to negotiate maritime boundaries, potentially entrenching unequal power dynamics where powerful investors can deter states from pursuing equitable delimitation outcomes, particularly in regions with unresolved maritime disputes.",
+      "convergence_score": 2,
+      "convergence_note": "Both sides recognize the tension between investment protection and sovereign rights, but diverge on whether contractual risk allocation is a legitimate tool or a threat to state sovereignty and equitable boundary resolution.",
+      "mainstream_sources": [
+        {
+          "title": "Contracting Sovereignty? Greece\u2019s Experiment with the Contractual Allocation of Maritime Delimitation Risk in Offshore Lease Agreements",
+          "url": "https://www.ejiltalk.org/contracting-sovereignty-greeces-experiment-with-the-contractual-allocation-of-maritime-delimitation-risk-in-offshore-lease-agreements"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "Contracting Sovereignty? Greece\u2019s Experiment with the Contractual Allocation of Maritime Delimitation Risk in Offshore Lease Agreements",
+          "url": "https://www.ejiltalk.org/contracting-sovereignty-greeces-experiment-with-the-contractual-allocation-of-maritime-delimitation-risk-in-offshore-lease-agreements"
+        }
+      ]
+    },
+    {
+      "title": "Legal Accumulation and the Global Sumud Flotilla: Precedents for Occupation and Resistance",
+      "framing": "The Global Sumud Flotilla, a humanitarian mission aiming to break the Gaza blockade, has been the subject of a symposium in Opinio Juris analyzing its legal dimensions. Contributors draw parallels to the Namibia precedent and argue that the flotilla represents a lawful act of civil resistance against illegal occupation, while also examining ecocide and the destruction of Palestinian olive trees as part of a broader pattern of genocide.",
+      "mainstream_view": "The flotilla raises complex questions about the law of the sea, self-defense, and the legality of blockades; while humanitarian access is important, states have a right to enforce security measures, and the flotilla's actions must be assessed within the framework of international humanitarian law and UN Security Council resolutions, without prejudging the underlying conflict.",
+      "global_south_view": "The flotilla is a legitimate form of resistance against an illegal blockade and occupation, drawing on precedents like Namibia to argue that third states and non-state actors have a duty to oppose violations of peremptory norms; the destruction of olive trees and environmental harm constitute ecocide and genocide, reflecting the systemic weaponization of life systems against Palestinians.",
+      "convergence_score": 1,
+      "convergence_note": "The two views are sharply opposed, with the mainstream framing emphasizing state security and legal neutrality, while the Global South view frames the flotilla as a lawful challenge to an illegal regime and a tool for accountability.",
+      "mainstream_sources": [
+        {
+          "title": "Symposium on the Global Sumud Flotilla: The Mechanics of Legal Accumulation \u2013 From the Namibia Precedent to the Sumud Flotilla",
+          "url": "http://opiniojuris.org/2026/06/23/symposium-on-the-global-sumud-flotilla-the-mechanics-of-legal-accumulation-from-the-namibia-precedent-to-the-sumud-flotilla/"
+        },
+        {
+          "title": "Symposium on the Global Sumud Flotilla: Ecocide as Genocide \u2013 The curious disappearance of the Palestinian olive tree",
+          "url": "http://opiniojuris.org/2026/06/23/ecocide-as-genocide-the-curious-disappearance-of-the-palestinian-olive-tree/"
+        },
+        {
+          "title": "Symposium on the Global Sumud Flotilla: The Legal Architecture of Maritime Abduction \u2013 The Global Sumud Flotilla and Israel\u2019s Legal Fictions",
+          "url": "http://opiniojuris.org/2026/06/23/the-legal-architecture-of-maritime-abduction-the-global-sumud-flotilla-and-israels-legal-fictions/"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "Legal - Global Sumud Flotilla",
+          "url": "https://www.globalsumudflotilla.org/legal"
+        },
+        {
+          "title": "International law reborn from the sea: From the Flotilla to border ...",
+          "url": "https://blogs.law.ox.ac.uk/border-criminologies-blog/blog-post/2026/01/international-law-reborn-sea-flotilla-border-resistance"
+        },
+        {
+          "title": "CAIR Says ICC, ICJ Should Consider Israel's 'Ecocide' of 1 Million ...",
+          "url": "https://www.cair.com/press_releases/cair-says-icc-icj-should-consider-israels-ecocide-of-1-million-olive-trees-in-gaza-as-further-evidence-of-genocidal-intent/"
+        }
+      ]
+    }
+  ]
+}
