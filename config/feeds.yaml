@@ -1,0 +1,55 @@
+# Feed configuration for the IEL/IIL comparative digest.
+#
+# `tradition` is used only to give the model context about each source's
+# general orientation — it does NOT determine the final classification.
+# The model still has to read each item and decide where the real
+# argument falls; a "mainstream" outlet can run a TWAIL-aligned post and
+# vice versa.
+#
+# Allowed values: mainstream | global_south | mixed
+#
+# NOTE: verify these URLs before relying on this in production. WordPress
+# sites usually expose /feed/, but blogs change platforms. Run
+# `python src/validate_feeds.py` from a machine with internet access
+# (this sandbox cannot reach these domains) to check each one and get a
+# pass/fail report.
+
+feeds:
+  - name: "EJIL:Talk!"
+    url: "https://www.ejiltalk.org/feed/"
+    tradition: "mainstream"
+
+  - name: "Opinio Juris"
+    url: "https://opiniojuris.org/feed/"
+    tradition: "mainstream"
+
+  - name: "Verfassungsblog"
+    url: "https://verfassungsblog.de/feed/"
+    tradition: "mainstream"
+
+  - name: "IELP Blog (worldtradelaw.net)"
+    url: "https://ielp.worldtradelaw.net/feeds/posts/default"
+    tradition: "mainstream"
+
+  - name: "AfronomicsLaw"
+    url: "https://www.afronomicslaw.org/blog/feed"
+    tradition: "global_south"
+
+  - name: "Critical Legal Thinking"
+    url: "https://criticallegalthinking.com/feed/"
+    tradition: "global_south"
+
+  - name: "TWAILR"
+    url: "https://twailr.com/feed/"
+    tradition: "global_south"
+
+  - name: "South Centre"
+    url: "https://www.southcentre.int/feed/"
+    tradition: "global_south"
+
+  - name: "Investment Treaty News (IISD)"
+    url: "https://www.iisd.org/itn/feed/"
+    tradition: "mixed"
+
+# How many days back to pull items from each feed on every run.
+lookback_days: 7

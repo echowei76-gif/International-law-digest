@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Fault Line — Issue 1</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #EDE8DC;
+    --ink: #1B1B16;
+    --ink-soft: #4A4640;
+    --rule: #C9C1AE;
+    --mainstream: #2E3A59;
+    --mainstream-soft: #DDE2EC;
+    --globalsouth: #9C5328;
+    --globalsouth-soft: #F1DFCC;
+    --gauge-empty: #D9D2C0;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'IBM Plex Sans', sans-serif;
+    line-height: 1.55;
+  }
+
+  .wrap {
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+
+  header.masthead {
+    border-bottom: 3px solid var(--ink);
+    padding-bottom: 18px;
+    margin-bottom: 36px;
+  }
+
+  .masthead-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .masthead-title {
+    font-family: 'Source Serif 4', serif;
+    font-weight: 700;
+    font-size: 42px;
+    letter-spacing: -0.01em;
+    margin: 0;
+  }
+
+  .masthead-meta {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+    color: var(--ink-soft);
+    text-align: right;
+    white-space: nowrap;
+  }
+
+  .masthead-sub {
+    font-size: 14px;
+    color: var(--ink-soft);
+    margin-top: 6px;
+    max-width: 640px;
+  }
+
+  .legend {
+    display: flex;
+    gap: 24px;
+    margin: 24px 0 8px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .legend span { display: flex; align-items: center; gap: 8px; }
+  .swatch { width: 10px; height: 10px; display: inline-block; }
+
+  .topic {
+    margin-top: 56px;
+  }
+
+  .topic-head {
+    display: flex;
+    align-items: baseline;
+    gap: 14px;
+    margin-bottom: 10px;
+  }
+
+  .topic-no {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+    color: var(--ink-soft);
+    white-space: nowrap;
+  }
+
+  .topic-title {
+    font-family: 'Source Serif 4', serif;
+    font-weight: 600;
+    font-size: 26px;
+    margin: 0;
+  }
+
+  .framing {
+    color: var(--ink-soft);
+    font-size: 15px;
+    max-width: 760px;
+    margin-bottom: 22px;
+  }
+
+  .split {
+    display: grid;
+    grid-template-columns: 1fr 2px 1fr;
+    gap: 0;
+    border-top: 1px solid var(--rule);
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .col {
+    padding: 22px 24px;
+  }
+
+  .col.mainstream { background: var(--mainstream-soft); }
+  .col.globalsouth { background: var(--globalsouth-soft); }
+
+  .fault-line {
+    background: repeating-linear-gradient(
+      to bottom,
+      var(--ink) 0px, var(--ink) 6px, transparent 6px, transparent 12px
+    );
+  }
+
+  .col-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    margin-bottom: 10px;
+    display: block;
+  }
+  .col.mainstream .col-label { color: var(--mainstream); }
+  .col.globalsouth .col-label { color: var(--globalsouth); }
+
+  .col p {
+    font-size: 14.5px;
+    margin: 0 0 12px;
+  }
+
+  .sources {
+    margin-top: 14px;
+    padding-top: 10px;
+    border-top: 1px solid rgba(0,0,0,0.12);
+  }
+  .sources-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--ink-soft);
+    display: block;
+    margin-bottom: 6px;
+  }
+  .sources ul {
+    margin: 0;
+    padding-left: 18px;
+    font-size: 12.5px;
+  }
+  .sources li { margin-bottom: 4px; }
+  .sources a { color: inherit; text-decoration: none; border-bottom: 1px dotted var(--ink-soft); }
+  .sources a:hover { border-bottom-style: solid; }
+
+  .gauge-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 14px 8px;
+    font-family: 'IBM Plex Mono', monospace;
+  }
+
+  .gauge-label {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--ink-soft);
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+  }
+
+  .gauge-segments {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .gauge-seg {
+    width: 18px;
+    height: 6px;
+    background: var(--gauge-empty);
+  }
+  .gauge-seg.filled {
+    background: linear-gradient(90deg, var(--globalsouth), var(--mainstream));
+  }
+
+  .convergence-note {
+    text-align: center;
+    font-size: 11px;
+    color: var(--ink-soft);
+    max-width: 110px;
+    margin: 6px auto 0;
+  }
+
+  footer {
+    margin-top: 64px;
+    padding-top: 18px;
+    border-top: 1px solid var(--rule);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11.5px;
+    color: var(--ink-soft);
+  }
+
+  @media (max-width: 720px) {
+    .split { grid-template-columns: 1fr; }
+    .fault-line { display: none; }
+    .masthead-title { font-size: 32px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="masthead">
+    <div class="masthead-row">
+      <h1 class="masthead-title">The Fault Line</h1>
+      <div class="masthead-meta">ISSUE NO. 1<br>2026-06-28</div>
+    </div>
+    <p class="masthead-sub">A standing comparison of mainstream/Western-institutionalist and Global South / TWAIL readings of current international economic &amp; investment law developments.</p>
+    <div class="legend">
+      <span><span class="swatch" style="background:var(--mainstream)"></span>Mainstream / Institutionalist</span>
+      <span><span class="swatch" style="background:var(--globalsouth)"></span>Global South / TWAIL</span>
+    </div>
+  </header>
+
+  
+<section class="topic">
+  <div class="topic-head">
+    <span class="topic-no">01</span>
+    <h2 class="topic-title">Reform of ISDS and the Multilateral Investment Court proposal</h2>
+  </div>
+  <p class="framing">UNCITRAL Working Group III continues to negotiate structural ISDS reform, with the EU pushing a permanent multilateral investment court while several states favor narrower fixes.</p>
+
+  <div class="split">
+    <div class="col mainstream">
+      <span class="col-label">Mainstream / Institutionalist</span>
+      <p>Establishment scholarship frames ISDS reform as a calibration problem: arbitrator bias and inconsistent awards are real but solvable through a standing court, a code of conduct, and an appellate mechanism, without abandoning depoliticized adjudication of investor claims.</p>
+      <div class="sources"><span class="sources-label">Sources</span><ul><li><a href="https://uncitral.un.org/" target="_blank" rel="noopener">UNCITRAL WG III session report</a></li></ul></div>
+    </div>
+
+    <div class="fault-line"></div>
+
+    <div class="col globalsouth">
+      <span class="col-label">Global South / TWAIL</span>
+      <p>TWAIL-aligned scholars argue the reform debate keeps the underlying asymmetry intact: a body that may once again be staffed and shaped by capital-exporting states, leaving the deeper objection unaddressed.</p>
+      <div class="sources"><span class="sources-label">Sources</span><ul><li><a href="https://www.southcentre.int/" target="_blank" rel="noopener">South Centre note on MIC proposal</a></li></ul></div>
+    </div>
+  </div>
+
+  <div class="gauge-row">
+    <span class="gauge-label">CONVERGENCE</span>
+    <div class="gauge-segments"><span class="gauge-seg filled"></span><span class="gauge-seg filled"></span><span class="gauge-seg"></span><span class="gauge-seg"></span><span class="gauge-seg"></span></div>
+    <span class="convergence-note">Both sides want fewer inconsistent awards; they disagree on what counts as fixed.</span>
+  </div>
+</section>
+
+
+<section class="topic">
+  <div class="topic-head">
+    <span class="topic-no">02</span>
+    <h2 class="topic-title">Sovereign debt restructuring and the G20 Common Framework</h2>
+  </div>
+  <p class="framing">Zambia and Sri Lanka case outcomes are being used to argue the Common Framework either is or is not delivering timely relief to distressed borrowers.</p>
+
+  <div class="split">
+    <div class="col mainstream">
+      <span class="col-label">Mainstream / Institutionalist</span>
+      <p>Creditor-side and IMF-adjacent analysis treats delays as coordination problems among diverse creditor classes, fixable through comparability-of-treatment clauses and faster information sharing.</p>
+      <div class="sources"><span class="sources-label">Sources</span><ul><li><a href="https://www.imf.org/" target="_blank" rel="noopener">IMF staff note on Common Framework</a></li></ul></div>
+    </div>
+
+    <div class="fault-line"></div>
+
+    <div class="col globalsouth">
+      <span class="col-label">Global South / TWAIL</span>
+      <p>African Sovereign Debt Justice Network and allied scholars locate the delay in structural creditor leverage itself, arguing voluntary frameworks reproduce the same asymmetry that produced the debt crisis.</p>
+      <div class="sources"><span class="sources-label">Sources</span><ul><li><a href="https://www.afronomicslaw.org/" target="_blank" rel="noopener">AfSDJN brief on debt restructuring</a></li></ul></div>
+    </div>
+  </div>
+
+  <div class="gauge-row">
+    <span class="gauge-label">CONVERGENCE</span>
+    <div class="gauge-segments"><span class="gauge-seg filled"></span><span class="gauge-seg filled"></span><span class="gauge-seg filled"></span><span class="gauge-seg"></span><span class="gauge-seg"></span></div>
+    <span class="convergence-note">Agreement that speed matters; disagreement on whether voluntary frameworks can ever deliver it.</span>
+  </div>
+</section>
+
+
+  <footer>
+    Generated automatically — verify all sources before citing. Convergence score: 1 = sharply opposed, 5 = largely converging.
+  </footer>
+
+</div>
+</body>
+</html>

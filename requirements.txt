@@ -1,0 +1,9 @@
+feedparser==6.0.11
+python-dateutil==2.9.0.post0
+PyYAML==6.0.2
+requests==2.32.3
+
+# Pick the package for whichever provider you actually use.
+# Both are listed so you don't need to edit this file when switching.
+anthropic==0.40.0   # used when LLM_PROVIDER=anthropic (default)
+openai==1.54.0      # used when LLM_PROVIDER=deepseek (DeepSeek speaks the OpenAI protocol)
