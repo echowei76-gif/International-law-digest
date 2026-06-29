@@ -1,0 +1,106 @@
+{
+  "topics": [
+    {
+      "title": "Climate Justice and Procedural Rights in International Courts",
+      "framing": "Discussions are ongoing about the role of procedural rights in climate cases before the European Court of Human Rights, with a focus on how courts can ensure access to justice and fair processes in climate litigation. The Verfassungsblog features an article examining procedural rights in climate cases before the ECtHR, while another piece discusses climate justice in a broader context.",
+      "mainstream_view": "Establishment scholarship and European institutions view procedural rights as essential for ensuring that climate litigation is fair and effective, with courts playing a key role in upholding rule of law and human rights standards. The ECtHR is seen as a legitimate forum for addressing climate grievances, provided that procedural safeguards are respected.",
+      "global_south_view": "Critical scholars and Global South perspectives argue that procedural rights in international courts often fail to address the substantive inequalities and historical responsibilities of developed countries for climate change. They emphasize that such courts may prioritize procedural formalism over the urgent need for climate justice and reparations for developing nations.",
+      "convergence_score": 2,
+      "convergence_note": "While both sides recognize the importance of procedural rights, they diverge sharply on whether international courts adequately address the structural inequities of climate change.",
+      "mainstream_sources": [
+        {
+          "title": "Procedural Rights in Climate Cases Before the ECtHR",
+          "url": "https://verfassungsblog.de/procedural-rights-climate-cases-ecthr/"
+        },
+        {
+          "title": "Climate Justice Unlocked",
+          "url": "https://verfassungsblog.de/climate-justice-unlocked/"
+        }
+      ],
+      "global_south_sources": []
+    },
+    {
+      "title": "Data Protection Resilience and Geopolitical Threats in EU Law",
+      "framing": "The Verfassungsblog features an article on strengthening data protection resilience against geopolitical threats, focusing on how EU law can safeguard data privacy in the face of external pressures. This reflects growing concerns about the intersection of data governance and national security.",
+      "mainstream_view": "Mainstream EU legal scholarship and institutions view data protection as a fundamental right that must be fortified against geopolitical threats through robust legal frameworks like the GDPR. They emphasize the need for regulatory autonomy and resilience to protect European values and citizens' privacy from foreign interference.",
+      "global_south_view": "Global South perspectives critique EU data protection efforts as potentially hypocritical, given the EU's own extraterritorial data practices and the lack of equivalent protections for data subjects in developing countries. They argue that such frameworks can reinforce digital colonialism by imposing European standards without addressing global power asymmetries.",
+      "convergence_score": 2,
+      "convergence_note": "Both sides acknowledge the importance of data protection, but they disagree on whether EU frameworks are genuinely universal or serve to entrench Northern dominance.",
+      "mainstream_sources": [
+        {
+          "title": "Strengthening Data Protection Resilience Against Geopolitical Threats",
+          "url": "https://verfassungsblog.de/strengthening-data-protection-resilience-against-geopolitical-threats/"
+        }
+      ],
+      "global_south_sources": []
+    },
+    {
+      "title": "Tax Cooperation and Global South Perspectives on International Tax Reform",
+      "framing": "The South Centre has released a policy brief on tax cooperation, indicating ongoing efforts by Global South institutions to shape international tax reform. This aligns with broader debates about tax justice and the need for inclusive global tax governance.",
+      "mainstream_view": "Mainstream OECD-led tax reform initiatives, such as the two-pillar solution, are framed as necessary steps to address tax base erosion and profit shifting, with a focus on consensus-building among developed and emerging economies. They emphasize technical solutions and voluntary compliance.",
+      "global_south_view": "The South Centre and TWAIL scholars argue that current tax reforms are insufficient and often favor developed countries, failing to address the systemic inequities in global tax rules that allow tax havens and multinational corporations to exploit developing nations. They call for a UN-led tax convention to ensure fair representation and redistribution.",
+      "convergence_score": 2,
+      "convergence_note": "While both sides agree on the need for tax reform, they diverge on the process and outcomes, with the Global South demanding more fundamental changes to global tax architecture.",
+      "mainstream_sources": [],
+      "global_south_sources": [
+        {
+          "title": "Tax Cooperation Policy Brief No. 42, 23 June 2026",
+          "url": "https://www.southcentre.int/tax-cooperation-policy-brief-no-42-23-june-2026/"
+        }
+      ]
+    },
+    {
+      "title": "Right to Development and Human Rights at the UN Human Rights Council",
+      "framing": "The South Centre is organizing a side event at the UN Human Rights Council on the right to development, highlighting ongoing efforts to advance this right in international human rights forums. This reflects persistent advocacy by developing countries for recognition of development as a human right.",
+      "mainstream_view": "Mainstream human rights scholarship and Western governments often view the right to development as a contested concept, preferring to focus on civil and political rights. They may see it as a political tool rather than a legally enforceable right, and emphasize individual rights over collective development claims.",
+      "global_south_view": "The South Centre and TWAIL scholars argue that the right to development is a crucial collective right that addresses historical injustices and global inequalities. They advocate for its full implementation through binding international obligations, including on issues like debt, trade, and technology transfer.",
+      "convergence_score": 2,
+      "convergence_note": "Both sides engage with human rights discourse, but they fundamentally disagree on the nature and enforceability of the right to development.",
+      "mainstream_sources": [],
+      "global_south_sources": [
+        {
+          "title": "SC RtD HRC62 Side Event, 3 July 2026",
+          "url": "https://www.southcentre.int/sc-rtd-hrc62-side-event-3-july-2026/"
+        }
+      ]
+    },
+    {
+      "title": "EU Constitutional Identity and Value-Based Conditionality",
+      "framing": "The Verfassungsblog features multiple articles debating the concept of a European society based on common values, including discussions on EU law as the law of European society and the politics of European society. This reflects ongoing tensions about value-based conditionality in EU law, particularly regarding rule of law and fundamental rights.",
+      "mainstream_view": "Mainstream EU legal scholarship and institutions view value-based conditionality as a legitimate tool to protect the EU's constitutional identity and enforce compliance with fundamental values like democracy and rule of law. They see it as necessary to counter backsliding in member states like Hungary and Poland.",
+      "global_south_view": "Critical and TWAIL scholars argue that EU value-based conditionality can be selective and hypocritical, often applied in ways that serve geopolitical interests rather than genuine value promotion. They point to double standards in how the EU treats non-member states and its own historical violations of values in colonial contexts.",
+      "convergence_score": 2,
+      "convergence_note": "Both sides recognize the importance of values in EU law, but they disagree on the consistency and legitimacy of conditionality mechanisms.",
+      "mainstream_sources": [
+        {
+          "title": "The Dangerous Idea of a European Society Based on Common Values",
+          "url": "https://verfassungsblog.de/european-society-based-on-common-values/"
+        },
+        {
+          "title": "EU Law as the Law of European Society",
+          "url": "https://verfassungsblog.de/eu-law-as-the-law-of-european-society/"
+        },
+        {
+          "title": "The Politics of European Society",
+          "url": "https://verfassungsblog.de/the-politics-of-european-society/"
+        }
+      ],
+      "global_south_sources": []
+    },
+    {
+      "title": "Indigenous Peoples' Rights and International Investment Law",
+      "framing": "The Verfassungsblog features an article tracing the evolution from the Awas Tingni case to Advisory Opinion 32/25, indicating developments in indigenous peoples' rights in international law. This intersects with international investment law when indigenous land rights conflict with investor protections.",
+      "mainstream_view": "Mainstream international investment law scholarship and institutions view investor-state dispute settlement as a neutral mechanism to protect foreign investments, with indigenous rights considered as a potential exception or public interest defense. They emphasize balancing investor protections with human rights obligations.",
+      "global_south_view": "TWAIL scholars and indigenous rights advocates argue that international investment law systematically prioritizes investor rights over indigenous peoples' rights to land and self-determination. They see ISDS as a tool of colonial extraction that undermines sovereignty and indigenous governance, and call for reforms that center indigenous consent and FPIC.",
+      "convergence_score": 2,
+      "convergence_note": "Both sides acknowledge the tension between investment protection and indigenous rights, but they fundamentally disagree on the legitimacy and balance of the current legal framework.",
+      "mainstream_sources": [
+        {
+          "title": "From Awas Tingni to Advisory Opinion 32/25",
+          "url": "https://verfassungsblog.de/from-awas-tingni-to-ao-32-25/"
+        }
+      ],
+      "global_south_sources": []
+    }
+  ]
+}
