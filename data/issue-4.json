@@ -1,0 +1,148 @@
+{
+  "topics": [
+    {
+      "title": "Corporate human rights due diligence and the TotalEnergies duty of vigilance ruling",
+      "framing": "A French court ruled that TotalEnergies' vigilance plan does not comply with the French Duty of Vigilance Law because the company failed to account for its Scope 3 emissions. The ruling has far-reaching substantive implications for companies subject to the law and the EU Corporate Sustainability Due Diligence Directive.",
+      "mainstream_view": "The ruling is a landmark enforcement of mandatory human rights and environmental due diligence, clarifying that companies must assess and address climate impacts across their entire value chain. It signals that courts will hold corporations accountable for inadequate vigilance plans, reinforcing the trend toward binding corporate accountability frameworks in Europe.",
+      "global_south_view": "While the ruling is a positive step, it reflects a Northern-centric approach that may not adequately address the power imbalances and historical responsibilities of Global North corporations operating in the Global South. The duty of vigilance framework risks being co-opted by corporate interests if it does not include strong mechanisms for remedy and participation of affected communities in the Global South.",
+      "convergence_score": 3,
+      "convergence_note": "Both sides see the ruling as significant for corporate accountability, but diverge on whether the framework sufficiently addresses structural inequalities and Southern perspectives.",
+      "mainstream_sources": [
+        {
+          "title": "Substantive Implications of the Duty of Vigilance Ruling Against TotalEnergies",
+          "url": "https://www.ejiltalk.org/substantive-implications-of-the-duty-of-vigilance-ruling-against-totalenergies/"
+        },
+        {
+          "title": "Paris Court Rules that French Duty of Vigilance Law ...",
+          "url": "https://www.ejiltalk.org/substantive-implications-of-the-duty-of-vigilance-ruling-against-totalenergies/"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "The Investor Case for Mandatory Human Rights Due ...",
+          "url": "https://www.southcentre.int/analytical-note-10-july-2026/"
+        }
+      ]
+    },
+    {
+      "title": "Russia-Ukraine peace treaty validity under international law and investment treaty implications",
+      "framing": "Legal scholars are examining the validity of a potential peace treaty between Russia and Ukraine under Article 52 of the Vienna Convention on the Law of Treaties, which voids treaties procured by the threat or use of force. Meanwhile, legacy bilateral investment treaties (BITs) between Russia and Ukraine, as well as between the USSR and other states, are being used to challenge EU support measures for Ukraine.",
+      "mainstream_view": "A peace treaty coerced by Russia's use of force would be void under Article 52 VCLT, upholding the prohibition on the acquisition of territory by force. Investment treaties continue to apply during armed conflict, and investors may use them to challenge legitimate state responses, creating a tension between peace and investment protection.",
+      "global_south_view": "The focus on treaty validity and investment arbitration risks sidelining the broader geopolitical and historical context, including the role of NATO expansion and the unequal application of international law. Investment treaties are often used by powerful states and corporations to constrain the policy space of weaker states, and the Ukraine conflict exemplifies how these treaties can be weaponized against legitimate state actions.",
+      "convergence_score": 2,
+      "convergence_note": "Both sides recognize the legal complexity, but mainstream views emphasize upholding the prohibition on force and treaty stability, while Global South critiques highlight the asymmetric power dynamics and weaponization of investment law.",
+      "mainstream_sources": [
+        {
+          "title": "A peace treaty for Ukraine: Mini-symposium on international legal issues",
+          "url": "https://www.ejiltalk.org/a-peace-treaty-for-ukraine-mini-symposium-on-international-legal-issues/"
+        },
+        {
+          "title": "Unexpected Consequences of Investment Treaties in Times of War",
+          "url": "https://www.iisd.org/articles/deep-dive/investment-treaties-times-of-war-russia-ukraine"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "The Dilemma of Bilateral Investment ...",
+          "url": "http://www.lawanddevelopment.net/img/2025papers/seo.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Global South perspectives on AI governance and intellectual property at WIPO",
+      "framing": "The South Centre delivered statements to the first Global Dialogue on AI Governance and the 68th WIPO Assemblies in July 2026, emphasizing the need for international cooperation and capacity-building for developing countries. The discussions focus on how AI governance and intellectual property regimes can support economic diversification and industrial development in the Global South.",
+      "mainstream_view": "AI governance and IP frameworks should promote innovation and creativity while ensuring that developing countries can harness these tools for economic growth. International cooperation and technical assistance are key to bridging the digital divide and enabling all countries to benefit from AI and IP systems.",
+      "global_south_view": "Current AI governance and IP regimes are dominated by developed countries and large corporations, often exacerbating inequalities and limiting access to technology for the Global South. There is a need for a more equitable framework that prioritizes capacity-building, technology transfer, and the protection of traditional knowledge and genetic resources, rather than simply extending Northern IP standards.",
+      "convergence_score": 2,
+      "convergence_note": "While both sides acknowledge the importance of capacity-building, mainstream views tend to favor existing IP frameworks with incremental adjustments, whereas Global South perspectives call for a fundamental rebalancing of power and access.",
+      "mainstream_sources": [
+        {
+          "title": "Assemblies of the Member States of WIPO Sixty Eighth ...",
+          "url": "https://webcast.wipo.int/video/A_68_2026-07-10_2e9e4f63-b288-472d-aeb2-08ded6a77707"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "SC Statement to 1st Global Dialogue on AI Governance, July 2026",
+          "url": "https://www.southcentre.int/sc-statement-to-1st-global-dialogue-on-ai-governance-july-2026/"
+        },
+        {
+          "title": "SC Statement to 68th WIPO Assemblies, 8 July 2026",
+          "url": "https://www.southcentre.int/sc-statement-to-68th-wipo-assemblies-8-july-2026/"
+        }
+      ]
+    },
+    {
+      "title": "Maritime order renegotiation and algorithmic genuine link under UNCLOS",
+      "framing": "The rise of Maritime Autonomous Surface Ships (MASS) and algorithmic navigation challenges traditional concepts of flag State jurisdiction and the 'genuine link' requirement under UNCLOS. The IMO adopted a new MASS Code in May 2026, but questions remain about how to attribute responsibility and ensure effective control when vessels operate without a human crew.",
+      "mainstream_view": "The MASS Code is a pragmatic step to integrate autonomous vessels into existing maritime safety frameworks. The 'genuine link' requirement should be interpreted flexibly to accommodate new technologies while maintaining flag State responsibility and effective jurisdiction. International cooperation is needed to update UNCLOS and related instruments.",
+      "global_south_view": "The push for autonomous shipping and algorithmic governance risks further marginalizing developing countries that lack the capacity to participate in standard-setting or to regulate these technologies. The 'genuine link' concept should not be diluted, as it is a key tool for ensuring that flag States, especially open registries, are held accountable for labor, environmental, and safety standards. The MASS Code may entrench the dominance of a few maritime powers.",
+      "convergence_score": 2,
+      "convergence_note": "Both sides recognize the need for legal adaptation, but mainstream views focus on technological efficiency and incremental regulatory updates, while Global South critiques emphasize equity, capacity-building, and the risk of regulatory capture.",
+      "mainstream_sources": [
+        {
+          "title": "Is the Captain a Code? Redefining the \u201cGenuine Link\u201d under the Law of the Sea in the Age of Maritime Algorithmic Architecture",
+          "url": "http://opiniojuris.org/2026/07/08/is-the-captain-a-code-redefining-the-genuine-link-under-the-law-of-the-sea-in-the-age-of-maritime-algorithmic-architecture/"
+        },
+        {
+          "title": "FAQ - Autonomous shipping",
+          "url": "https://www.imo.org/en/mediacentre/hottopics/pages/autonomous-shipping.aspx"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "Artificial Intelligence Integration in UNCLOS ...",
+          "url": "https://journal.makwafoundation.org/index.php/hakamain/article/download/1326/866"
+        }
+      ]
+    },
+    {
+      "title": "PCA award in Rwanda v UK: interpretation of VCLT Article 13 and treaty withdrawal",
+      "framing": "A PCA tribunal rejected Rwanda's claims against the UK over the cancellation of the Asylum Partnership Agreement, interpreting Article 13 of the VCLT on consent to be bound by an exchange of instruments. The award clarifies the requirements for treaty formation and withdrawal in the context of international cooperation on migration.",
+      "mainstream_view": "The PCA's interpretation of VCLT Article 13 is a sound application of treaty law principles, affirming that states must clearly express consent to be bound. The ruling upholds the rule of law in international relations and provides clarity on the legal effects of political changes on treaty commitments.",
+      "global_south_view": "The case illustrates how international law can be used by powerful states to evade responsibilities toward developing countries. The UK's cancellation of the asylum partnership, while legally permissible under the tribunal's interpretation, reflects a broader pattern of Northern states unilaterally withdrawing from agreements that benefit the Global South, undermining trust in international legal frameworks.",
+      "convergence_score": 2,
+      "convergence_note": "Both sides accept the legal reasoning of the PCA award, but mainstream views celebrate it as a victory for legal clarity, while Global South critiques highlight the asymmetric power dynamics and the potential for international law to legitimize unilateral actions by powerful states.",
+      "mainstream_sources": [
+        {
+          "title": "The Award in Rwanda versus the United Kingdom: The PCA\u2019s Interpretation of VCLT, Article 13",
+          "url": "https://www.ejiltalk.org/the-award-in-rwanda-versus-the-united-kingdom-the-pcas-interpretation-of-vclt-article-13/"
+        },
+        {
+          "title": "PCA Tribunal Rejects Rwanda's Claims Against the UK Over ...",
+          "url": "https://asil.org/ilib/pca-tribunal-rejects-rwandas-claims-against-the-uk-over-asylum-partnership"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "Good faith, withdrawal, and the judicialization of ...",
+          "url": "https://www.qil-qdi.org/good-faith-withdrawal-and-the-judicialization-of-international-politics-2"
+        }
+      ]
+    },
+    {
+      "title": "Heatwaves and legal remedies: climate adaptation rights and investment law",
+      "framing": "Extreme heatwaves are increasing in frequency and severity due to climate change, raising questions about legal remedies for affected populations. The Inter-American Court of Human Rights issued an advisory opinion in 2025 clarifying states' obligations to respond to the climate emergency, while investment treaty arbitration may be used by fossil fuel investors to challenge climate adaptation measures.",
+      "mainstream_view": "Climate adaptation is a state obligation under human rights law, and the IACtHR's advisory opinion provides a useful framework for balancing climate action with investment protections. New-generation investment treaties can incorporate climate obligations, and tribunals should interpret existing treaties in light of climate imperatives.",
+      "global_south_view": "The focus on investment arbitration and human rights law often fails to address the historical responsibility of developed countries for climate change. Adaptation measures in the Global South are constrained by lack of resources and by investment treaties that protect fossil fuel investments. The IACtHR opinion, while progressive, may not be sufficient to overcome the structural barriers imposed by international investment law.",
+      "convergence_score": 3,
+      "convergence_note": "Both sides recognize the need for legal frameworks to address climate adaptation, but mainstream views are more optimistic about reconciling investment law with climate goals, while Global South critiques emphasize the systemic obstacles and historical inequities.",
+      "mainstream_sources": [
+        {
+          "title": "Climate Change and Investment Arbitration: The IACtHR\u2019s 2025 Advisory Opinion as a Regulatory Defense Tool",
+          "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/climate-change-and-investment-arbitration-the-iacthrs-2025-advisory-opinion-as-a-regulatory-defense-tool"
+        },
+        {
+          "title": "Investment Treaty Arbitration and Climate Change",
+          "url": "https://lawclimateatlas.org/resources/investment-treaty-arbitration-and-climate-change"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "Climate Justice in Heatwaves: Why Extreme Weather ...",
+          "url": "https://blog.plant-for-the-planet.org/2026/climate-justice-heatwaves"
+        }
+      ]
+    }
+  ]
+}
