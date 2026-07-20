@@ -1,0 +1,148 @@
+{
+  "topics": [
+    {
+      "title": "Military AI and International Humanitarian Law: Accountability Gaps",
+      "framing": "The integration of artificial intelligence into military targeting and decision-making systems is raising questions about compliance with international humanitarian law, particularly regarding the principles of distinction, proportionality, and accountability. Scholars and practitioners are debating whether existing legal frameworks adequately address the challenges posed by autonomous weapon systems and the growing role of private technology companies in their development.",
+      "mainstream_view": "Mainstream scholarship and institutions like the ICRC argue that international humanitarian law remains applicable to military AI, but that new governance mechanisms are needed to ensure human control and accountability. The focus is on interpreting existing rules\u2014such as Common Article 1 of the Geneva Conventions\u2014to require states to ensure that AI systems are designed and used in compliance with IHL, and on promoting industry collaboration to make military AI 'lawful by design'.",
+      "global_south_view": "TWAIL scholars and developing-country voices caution that the push for AI in warfare risks deepening power asymmetries, as wealthy states and private corporations drive the technology while the Global South bears the brunt of civilian harm. They argue that the accountability gap is not merely technical but structural, rooted in the unequal distribution of legal and economic power, and that reforms must address the underlying inequities in the international legal order.",
+      "convergence_score": 3,
+      "convergence_note": "Both sides agree that existing IHL applies to military AI and that accountability mechanisms are insufficient, but they diverge on whether the primary problem is a governance gap within the current system or a symptom of deeper structural inequality.",
+      "mainstream_sources": [
+        {
+          "title": "AI-Enabled Targeting and the Structural Strain on International Humanitarian Law",
+          "url": "http://opiniojuris.org/2026/07/17/ai-enabled-targeting-and-the-structural-strain-on-international-humanitarian-law/"
+        },
+        {
+          "title": "Collaboration without over-reliance: the role of industry in making military AI 'lawful by design'",
+          "url": "https://blogs.icrc.org/law-and-policy/2026/05/26/collaboration-without-over-reliance-the-role-of-industry-in-making-military-ai-lawful-by-design"
+        },
+        {
+          "title": "Applicability of International Law to AI in Armed Conflict",
+          "url": "https://papers.ssrn.com/sol3/Delivery.cfm/6537045.pdf?abstractid=6537045&mirid=1"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "SC 30th Anniversary Series 4, 20 July 2026",
+          "url": "https://www.southcentre.int/sc-30th-anniversary-series-4-20-july-2026/"
+        },
+        {
+          "title": "The Discipline of Unease: A Conversation with Costas Douzinas",
+          "url": "https://criticallegalthinking.com/2026/07/17/the-discipline-of-unease-a-conversation-with-costas-douzinas/"
+        }
+      ]
+    },
+    {
+      "title": "EU Investment in UN-Blacklisted Israeli Enterprises: EIB Lending and International Law",
+      "framing": "The European Investment Bank has been found to have channeled over \u20ac1 billion to Israeli companies that are blacklisted by the United Nations for involvement in illegal settlement activities in occupied Palestinian territory. A formal complaint has been filed, and the EIB has acknowledged due diligence failures, but it has not suspended existing funding.",
+      "mainstream_view": "Mainstream international legal analysis, as reflected in the Opinio Juris piece, emphasizes that the EIB's lending may violate the EU's own obligations under international law, particularly following the ICJ's 2024 advisory opinion on the illegality of Israeli settlements. The focus is on the legal duty of international organizations to ensure their operations do not contribute to violations of peremptory norms, and on the need for institutional compliance mechanisms.",
+      "global_south_view": "Global South and human rights organizations, such as the Hind Rajab Foundation, frame the EIB's conduct as complicity in war crimes and a violation of the EU's human rights obligations. They argue that the episode exposes the hypocrisy of Western financial institutions that profess commitment to international law while funding entities involved in occupation and displacement, and call for immediate suspension of all partnerships with blacklisted entities.",
+      "convergence_score": 2,
+      "convergence_note": "Both sides agree that the EIB's lending raises serious legal concerns, but they diverge sharply on the severity of the violation\u2014mainstream analysis treats it as a compliance gap, while Global South critics see it as systemic complicity.",
+      "mainstream_sources": [
+        {
+          "title": "The European Investment Bank\u2019s \u20ac1 billion lending operations to U.N. blacklisted enterprises in Israel",
+          "url": "https://opiniojuris.org/2026/07/14/the-european-investment-banks-e1-billion-lending-operations-to-u-n-blacklisted-enterprises-in-israel/"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "HRF Forces EU Bank to Face Its Complicity in Israeli Crimes",
+          "url": "https://www.hindrajabfoundation.org/posts/hrf-forces-eu-bank-to-face-its-complicity-in-israeli-war-crimes"
+        },
+        {
+          "title": "After HRF Complaint: EIB Admits Due Diligence Failures",
+          "url": "https://www.hindrajabfoundation.org/posts/after-hrf-complaint-eib-admits-due-diligence-failures-over-1-billion-in-investments-linked-to-illegal-israeli-settlements"
+        }
+      ]
+    },
+    {
+      "title": "Global South Institutional Reform: South Centre 30th Anniversary and Research Outputs",
+      "framing": "The South Centre, an intergovernmental organization of developing countries, is marking its 30th anniversary by highlighting its role in advocating for reforms to international investment law, tax systems, and trade rules. Its recent research papers call for a development-focused review of the TRIPS Agreement and critique the procedural design of WTO reform packages.",
+      "mainstream_view": "Mainstream international economic law scholarship generally acknowledges the South Centre's contributions but tends to view its proposals as part of a broader pluralistic debate within existing institutions. The emphasis is on incremental reform and the need to balance the interests of developed and developing countries within the current multilateral framework.",
+      "global_south_view": "The South Centre and allied TWAIL scholars frame their work as a necessary corrective to a global economic order that has historically disadvantaged the Global South. They argue that fundamental structural reforms\u2014not just tweaks\u2014are needed in investment law, tax cooperation, and intellectual property rules to achieve equity and development, and that the 30-year trajectory shows both progress and persistent resistance from powerful states.",
+      "convergence_score": 3,
+      "convergence_note": "Both sides recognize the need for reform, but mainstream views favor incremental change within existing institutions, while Global South perspectives demand more fundamental restructuring of the rules themselves.",
+      "mainstream_sources": [
+        {
+          "title": "SC 30th Anniversary Series 4, 20 July 2026",
+          "url": "https://www.southcentre.int/sc-30th-anniversary-series-4-20-july-2026/"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "SC 30th Anniversary Series 4, 20 July 2026",
+          "url": "https://www.southcentre.int/sc-30th-anniversary-series-4-20-july-2026/"
+        },
+        {
+          "title": "Research Paper 226, 12 November 2025",
+          "url": "https://www.southcentre.int/research-paper-226-12-november-2025/"
+        }
+      ]
+    },
+    {
+      "title": "Algorithmic Refereeing at the 2026 World Cup: Sports Law and AI Regulation",
+      "framing": "The 2026 FIFA World Cup is introducing AI-assisted refereeing systems that process match data to support human officials, particularly for offside calls and other real-time decisions. This raises questions about compatibility with international football law, the integrity of competition, and the balance between technological assistance and human judgment.",
+      "mainstream_view": "Mainstream sports law analysis, as exemplified by the Opinio Juris piece, focuses on whether AI-assisted refereeing complies with FIFA's Laws of the Game and principles of fair play. The emphasis is on ensuring that technology remains a tool to assist human referees, not replace them, and that procedural fairness and transparency are maintained.",
+      "global_south_view": "Critical legal scholars and Global South commentators may view the adoption of AI refereeing as another instance of technology being imposed by wealthy football federations and corporations, potentially marginalizing less-resourced nations that cannot afford similar systems. They question whether the technology truly levels the playing field or entrenches existing hierarchies in global sports governance.",
+      "convergence_score": 3,
+      "convergence_note": "Both sides agree that human oversight must remain central, but they diverge on whether the primary concern is procedural integrity within the existing rules or the broader power dynamics of global sports governance.",
+      "mainstream_sources": [
+        {
+          "title": "Algorithmic Refereeing at the 2026 World Cup: Compatibility with International Football Law and the Integrity of Competition",
+          "url": "http://opiniojuris.org/2026/07/15/algorithmic-refereeing-at-the-2026-world-cup-compatibility-with-international-football-law-and-the-integrity-of-competition/"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "The Discipline of Unease: A Conversation with Costas Douzinas",
+          "url": "https://criticallegalthinking.com/2026/07/17/the-discipline-of-unease-a-conversation-with-costas-douzinas/"
+        }
+      ]
+    },
+    {
+      "title": "Human Rights and Fossil Fuels: A New Right to Be Fossil Fuel Free?",
+      "framing": "Legal scholars and activists are increasingly arguing that states' failure to phase out fossil fuel production and use violates human rights obligations, particularly the right to life and health. The first global conference on transitioning away from fossil fuels was held in Colombia in April 2026, and a proposed Fossil Fuel Treaty is gaining support.",
+      "mainstream_view": "Mainstream human rights law scholarship, as reflected in the Verfassungsblog piece, explores whether a 'human right to be fossil fuel free' can be derived from existing international human rights instruments. The analysis focuses on doctrinal arguments, such as Australia's failure to regulate fossil fuel exports as a human rights violation, and the potential for strategic litigation to push for policy change.",
+      "global_south_view": "Global South and climate justice advocates, including Amnesty International and Amazon Watch, frame the fossil fuel phase-out as a matter of historical responsibility and equity. They argue that wealthy countries, which have benefited most from fossil fuel extraction, must lead the transition and provide financial and technical support to developing nations. The proposed Fossil Fuel Treaty is seen as a tool to ensure a just transition that does not repeat colonial patterns.",
+      "convergence_score": 3,
+      "convergence_note": "Both sides agree that human rights law can and should be used to compel action on fossil fuels, but they differ on whether the primary legal strategy should be doctrinal development within existing frameworks or a new treaty that explicitly addresses historical inequities.",
+      "mainstream_sources": [
+        {
+          "title": "A Human Right to be Fossil Fuel Free?",
+          "url": "https://verfassungsblog.de/a-human-right-to-be-fossil-fuel-free/"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "The age of fossil fuels must end. A Fossil Fuel Treaty can help.",
+          "url": "https://www.amnesty.org/en/latest/campaigns/2026/04/fossil-fuel-treaty"
+        },
+        {
+          "title": "Hope and Action To Phase Out Fossil Fuels",
+          "url": "https://amazonwatch.org/news/2026/0512-hope-and-action-to-phase-out-fossil-fuels"
+        }
+      ]
+    },
+    {
+      "title": "EU Judicial Independence and the Weimers Report: Politicisation Concerns",
+      "framing": "A draft report by European Parliament rapporteur Charlie Weimers, published in June 2026, proposes changes to the EU's institutional framework that critics say would curb the power of the Court of Justice of the EU and politicize judicial independence. The report has sparked debate about the balance between national sovereignty and EU legal order.",
+      "mainstream_view": "Mainstream EU legal scholarship, as expressed in the Verfassungsblog piece, views the Weimers Report as a politically motivated attempt to undermine the CJEU's role in defending the rule of law. The analysis emphasizes that the report's proposals would weaken judicial independence and create a 'politicisation of judicial independence' that threatens the EU's legal foundations.",
+      "global_south_view": "TWAIL and critical scholars might see the Weimers Report as a manifestation of broader tensions between supranational legal authority and national sovereignty, which have parallels in Global South critiques of international investment tribunals. They could argue that the debate reveals how legal institutions are always embedded in political struggles, and that the CJEU's defense of liberal values can also be a tool for imposing certain economic and political models.",
+      "convergence_score": 2,
+      "convergence_note": "Both sides recognize the political nature of the report, but mainstream analysis defends the CJEU's independence as a cornerstone of the rule of law, while critical perspectives question whether any supranational court can be truly apolitical.",
+      "mainstream_sources": [
+        {
+          "title": "The Weimers Report and the Politicisation of Judicial Independence in the EU",
+          "url": "https://verfassungsblog.de/the-weimers-report-and-the-politicisation-of-judicial-independence-in-the-eu/"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "The Discipline of Unease: A Conversation with Costas Douzinas",
+          "url": "https://criticallegalthinking.com/2026/07/17/the-discipline-of-unease-a-conversation-with-costas-douzinas/"
+        }
+      ]
+    }
+  ]
+}
