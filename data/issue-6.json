@@ -1,0 +1,172 @@
+{
+  "topics": [
+    {
+      "title": "Private Military AI and International Investment Law: Liability and Regulatory Gaps",
+      "framing": "The increasing outsourcing of military artificial intelligence to private tech companies raises questions about accountability under international law, particularly when these systems cause harm in conflict zones. Existing investment treaties may protect the assets and operations of these companies, creating potential tensions between investor rights and state regulatory obligations.",
+      "mainstream_view": "Mainstream scholarship and institutions view the privatization of military AI as a natural extension of state defense modernization, governed by existing international humanitarian law and investment treaty frameworks. They argue that clear contractual allocations of liability and robust state oversight can manage risks, while investment protections encourage innovation and capital flows into defense technology.",
+      "global_south_view": "TWAIL scholars and developing-country voices critique this trend as a new form of digital colonialism, where powerful states and multinational tech firms impose AI-driven security architectures on the Global South without adequate consent or benefit-sharing. They argue that investment treaties shield these companies from accountability, entrenching asymmetries and undermining host-state regulatory sovereignty over critical security and human rights matters.",
+      "convergence_score": 2,
+      "convergence_note": "Views diverge sharply on whether private AI investment is a driver of innovation or a vehicle for neocolonial control, with little common ground on liability allocation.",
+      "mainstream_sources": [
+        {
+          "title": "Outsourcing Military AI to Private Tech Companies Compared to Other Privatisation in Warfare, and Beyond: What\u2019s New?",
+          "url": "http://opiniojuris.org/2026/07/27/outsourcing-military-ai-to-private-tech-companies-compared-to-other-privatisation-in-warfare-and-beyond-whats-new/"
+        },
+        {
+          "title": "Symposium on Cyber, International Law and Artificial Intelligence in Armed Conflict: Piercing the Veil \u2013 Why Siloed AI Governance Is Untenable",
+          "url": "http://opiniojuris.org/2026/07/21/symposium-on-international-law-and-artificial-intelligence-in-armed-conflict-piercing-the-veil-why-siloed-ai-governance-is-untenable/"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "TWAIL's Blind Spots Concerning International Investment ...",
+          "url": "https://www.afronomicslaw.org/2020/03/16/twails-blind-spots-concerning-international-investment-law"
+        },
+        {
+          "title": "Foreign Investment Law: A TWAIL view",
+          "url": "https://www.academia.edu/106573183/Foreign_Investment_Law_A_TWAIL_view"
+        }
+      ]
+    },
+    {
+      "title": "Internet Shutdowns as Economic Violence: Cultural Rights and Investment Treaty Obligations",
+      "framing": "State-sponsored internet shutdowns are increasingly used to manage political crises, disrupting access to information and cultural participation. These shutdowns also affect foreign investors, particularly in digital and telecommunications sectors, potentially triggering claims under investment treaties for breach of fair and equitable treatment or expropriation.",
+      "mainstream_view": "Mainstream international economic law perspectives treat internet shutdowns as a regulatory measure that must be balanced against investor protections under FET and indirect expropriation standards. They emphasize that shutdowns, if non-discriminatory and for a public purpose, may be justified, but arbitrary or disproportionate shutdowns could violate legitimate expectations of investors and warrant compensation.",
+      "global_south_view": "TWAIL and Global South voices frame internet shutdowns as a form of economic violence that disproportionately harms developing countries, where digital infrastructure is often foreign-owned and shutdowns can cripple local economies and cultural expression. They argue that investment treaty claims by foreign tech firms can chill legitimate state actions to protect national security or public order, and that the cultural rights dimension\u2014including the right to access information and participate in cultural life\u2014is systematically undervalued in investor-state arbitration.",
+      "convergence_score": 2,
+      "convergence_note": "While both sides acknowledge the tension between regulation and investment protection, they fundamentally disagree on whether investment treaties unduly constrain state sovereignty in the digital domain.",
+      "mainstream_sources": [
+        {
+          "title": "Irreversible Darkness: State-Sponsored Internet Shutdowns and the Forgotten Cultural Dimension of International Law",
+          "url": "http://opiniojuris.org/2026/07/23/irreversible-darkness-state-sponsored-internet-shutdowns-and-the-forgotten-cultural-dimension-of-international-law/"
+        },
+        {
+          "title": "a shift in the fair and equitable treatment standard as states ...",
+          "url": "https://globalarbitrationreview.com/guide/the-guide-investment-treaty-protection-and-enforcement/third-edition/article/substantive-protections-shift-in-the-fair-and-equitable-treatment-standard-states-push-back-against-expansive-investor-protections"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "UNESCO Statement on Internet Shutdowns",
+          "url": "https://www.unesco.org/en/articles/unesco-statement-internet-shutdowns"
+        },
+        {
+          "title": "Policy Brief: Internet Shutdowns - Internet Society",
+          "url": "https://www.internetsociety.org/resources/policybriefs/2025/internet-shutdowns"
+        }
+      ]
+    },
+    {
+      "title": "Economic Violence After Withdrawal from Treaties: Turkey, Istanbul Convention, and Investment Law",
+      "framing": "Turkey's 2021 withdrawal from the Istanbul Convention has been linked by civil society monitors to a rise in femicides and gender-based violence, which some characterize as a form of economic violence. This situation raises questions about how treaty withdrawal interacts with investment law, particularly if foreign investors claim that the state's failure to protect women constitutes a breach of investment protections.",
+      "mainstream_view": "Mainstream international law analysis treats treaty withdrawal as a sovereign act that does not directly engage investment treaty obligations unless it specifically affects foreign investors' rights. They would argue that the Istanbul Convention is a human rights treaty, not an investment agreement, and that any economic harm to investors from gender-based violence would need to be linked to a specific investment treaty breach, such as failure to provide full protection and security.",
+      "global_south_view": "TWAIL and feminist legal scholars frame the withdrawal as part of a broader pattern of economic violence that entrenches patriarchal structures and undermines women's economic participation, which in turn affects the investment climate. They argue that investment law's narrow focus on property rights ignores the systemic economic harm caused by gender-based violence and that states should be held accountable under investment treaties for failing to maintain a stable and non-discriminatory legal environment for all, including women.",
+      "convergence_score": 2,
+      "convergence_note": "The mainstream view sees treaty withdrawal as a political act outside investment law, while the Global South view sees it as a failure of the state's duty to protect that has direct economic consequences for investment.",
+      "mainstream_sources": [
+        {
+          "title": "Beyond Withdrawal: Economic Violence After Turkey Left the Istanbul Convention",
+          "url": "http://opiniojuris.org/2026/07/23/beyond-withdrawal-economic-violence-after-turkey-left-the-istanbul-convention/"
+        },
+        {
+          "title": "PACE urges Turkey to rejoin Istanbul Convention, cites ...",
+          "url": "https://www.turkishminute.com/2026/04/29/pace-urges-turkey-to-rejoin-istanbul-convention-cites-ongoing-violence-against-women"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "SouthViews No. 311, 22 July 2026",
+          "url": "https://www.southcentre.int/southviews-no-311-22-july-2026/"
+        },
+        {
+          "title": "Between State Responsibility and Decolonial Practices: The Case of Gender Apartheid in Dismantling the Gender-Based Oppression of Afghan Women",
+          "url": "http://opiniojuris.org/2026/07/22/between-state-responsibility-and-decolonial-practices-the-case-of-gender-apartheid-in-dismantling-the-gender-based-oppression-of-afghan-women/"
+        }
+      ]
+    },
+    {
+      "title": "AI in Armed Conflict and the 'Fog of War': Implications for Investment Protection in Conflict Zones",
+      "framing": "The use of artificial intelligence in armed conflict, including autonomous weapons systems, introduces new uncertainties\u2014an 'AI-induced fog of war'\u2014that complicates compliance with international humanitarian law. For foreign investors in conflict zones, this raises risks of damage to assets, business interruption, and potential claims under investment treaties for failure to provide full protection and security.",
+      "mainstream_view": "Mainstream international law and investment scholars argue that existing legal frameworks, including IHL and investment treaties, are adaptable to AI-driven conflict. They emphasize that states retain the obligation to protect foreign investments through due diligence, and that investors can seek recourse for harm caused by state forces or attributable non-state actors. The 'fog of war' is seen as a factual challenge, not a legal gap, and tribunals can assess state conduct on a case-by-case basis.",
+      "global_south_view": "TWAIL and Global South perspectives highlight that AI-enabled warfare disproportionately affects developing countries, which are often the sites of conflict and lack the technological capacity to regulate or counter these systems. They argue that investment treaties, designed to protect foreign investors, may be used to claim compensation from host states for damages caused by AI-driven military operations, even when the state has limited control over such systems. This creates a new avenue for investor claims that could further burden already fragile economies and undermine post-conflict reconstruction.",
+      "convergence_score": 2,
+      "convergence_note": "Both sides recognize the operational challenges of AI in conflict, but diverge on whether investment law provides adequate protection for host states versus foreign investors.",
+      "mainstream_sources": [
+        {
+          "title": "Symposium on Cyber, International Law and Artificial Intelligence in Armed Conflict: Law of Armed Conflict Implications of AI-Induced Fog of War",
+          "url": "http://opiniojuris.org/2026/07/21/symposium-on-international-law-and-artificial-intelligence-in-armed-conflict-law-of-armed-conflict-implications-of-ai-induced-fog-of-war/"
+        },
+        {
+          "title": "The Fog of AI War",
+          "url": "https://carnegieendowment.org/europe/strategic-europe/2026/04/the-fog-of-ai-war"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "Investor Statement on Autonomous Weapons \u2013 Stop Killer Robots",
+          "url": "https://www.stopkillerrobots.org/investor-statement-on-autonomous-weapons"
+        },
+        {
+          "title": "A Hazard to Human Rights: Autonomous Weapons ...",
+          "url": "https://www.hrw.org/report/2025/04/28/a-hazard-to-human-rights/autonomous-weapons-systems-and-digital-decision-making"
+        }
+      ]
+    },
+    {
+      "title": "China's Extraterritorial Jurisdiction and Ethnic Unity Law: Investment Treaty Implications",
+      "framing": "China's new Law on Promoting Ethnic Unity and Progress, effective July 2026, includes provisions for extraterritorial application, allowing Beijing to target individuals and organizations overseas that it deems to undermine ethnic unity. This raises concerns for foreign investors in China and for Chinese investments abroad, as the law could be used to impose sanctions or disrupt business operations, potentially triggering investment treaty disputes.",
+      "mainstream_view": "Mainstream international investment law analysis would view China's extraterritorial law as a sovereign legislative act that, if applied in a discriminatory or arbitrary manner to foreign investors, could breach FET or expropriation provisions in China's BITs. They would emphasize that investment treaties require states to provide a stable and predictable legal environment, and that unpredictable extraterritorial enforcement could undermine investor confidence and lead to arbitration claims.",
+      "global_south_view": "TWAIL and Global South scholars frame China's law as part of a broader trend of powerful states using extraterritorial jurisdiction to project power and control over transnational economic activities, often at the expense of developing countries. They argue that investment treaties, historically used by Western states to protect their investors, are now being invoked by China to shield its own investments from host-state regulation, while the new law could be used to pressure other states to align with China's domestic policies, undermining their sovereignty.",
+      "convergence_score": 2,
+      "convergence_note": "Both perspectives recognize the potential for investment treaty claims, but the mainstream view focuses on legal predictability while the Global South view highlights power asymmetries and sovereignty concerns.",
+      "mainstream_sources": [
+        {
+          "title": "China\u2019s Law on Promoting Ethnic Unity and Progress and Extraterritorial Jurisdiction",
+          "url": "https://opiniojuris.org/2026/07/22/chinas-law-on-promoting-ethnic-unity-and-progress-and-extraterritorial-jurisdiction/"
+        },
+        {
+          "title": "China's Bilateral Investment Treaties (BITs)",
+          "url": "https://msadvisory.com/chinas-bilateral-investment-treaties-bits"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "China\u2019s new ethnic unity law extends its legal reach overseas",
+          "url": "https://www.aljazeera.com/amp/news/2026/7/2/chinas-new-ethnic-unity-law-extends-its-legal-reach-overseas"
+        },
+        {
+          "title": "Experts raise concern over China\u2019s \u2018ethnic unity\u2019 law",
+          "url": "https://www.taipeitimes.com/News/front/archives/2026/06/25/2003859694"
+        }
+      ]
+    },
+    {
+      "title": "Gender Apartheid and State Responsibility: Decolonial Approaches to Investment Law",
+      "framing": "The systematic exclusion of women from public life in Afghanistan under Taliban rule has been characterized as gender apartheid, a crime not yet codified in international law. This raises questions about state responsibility and whether investment law, which protects foreign investors, can be reconciled with decolonial approaches that seek to address structural gender oppression.",
+      "mainstream_view": "Mainstream international law and investment scholarship would treat gender apartheid as a human rights issue separate from investment law, arguing that investment treaties are not designed to address systemic gender discrimination. They would maintain that states have obligations under human rights law to protect women, but that investment tribunals lack jurisdiction over such claims unless they directly affect an investor's rights, such as through discriminatory treatment or denial of justice.",
+      "global_south_view": "TWAIL and decolonial feminist scholars argue that investment law, by prioritizing property rights over human rights, perpetuates colonial and patriarchal structures that enable gender apartheid. They contend that the failure to recognize gender apartheid as an international crime reflects a broader neglect of women's experiences in the Global South, and that investment law should be reformed to incorporate gender justice and decolonial perspectives, holding states accountable for economic violence against women.",
+      "convergence_score": 1,
+      "convergence_note": "The mainstream view maintains a strict separation between investment law and human rights, while the Global South view sees them as deeply intertwined and calls for fundamental reform.",
+      "mainstream_sources": [
+        {
+          "title": "Between State Responsibility and Decolonial Practices: The Case of Gender Apartheid in Dismantling the Gender-Based Oppression of Afghan Women",
+          "url": "http://opiniojuris.org/2026/07/22/between-state-responsibility-and-decolonial-practices-the-case-of-gender-apartheid-in-dismantling-the-gender-based-oppression-of-afghan-women/"
+        },
+        {
+          "title": "Gender Apartheid Should Be an International Crime",
+          "url": "https://www.hrw.org/news/2025/07/14/gender-apartheid-should-be-an-international-crime"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "Decoloniality - Antiracist Praxis",
+          "url": "https://subjectguides.library.american.edu/c.php?g=1025915&p=7715527"
+        },
+        {
+          "title": "The International Obligation to Counter Gender Apartheid in Afghanistan",
+          "url": "https://hrlr.law.columbia.edu/hrlr/the-international-obligation-to-counter-gender-apartheid-in-afghanistan"
+        }
+      ]
+    }
+  ]
+}
