@@ -1,0 +1,172 @@
+{
+  "topics": [
+    {
+      "title": "EU Migration Externalization and the Ceuta Border Crisis",
+      "framing": "In late July 2026, thousands of migrants crossed from Morocco into the Spanish enclave of Ceuta, overwhelming local facilities and prompting Spain to consider a national emergency. The incident has intensified debates over the EU's externalization policies, including safe third country agreements and return hubs, and has led to political reactions across Europe, including Italy suspending Schengen with Spain.",
+      "mainstream_view": "From the perspective of EU institutions and member states, the Ceuta crisis underscores the necessity of robust external border management and partnerships with countries like Morocco to prevent irregular migration. The EU Pact on Migration and Asylum and the new Return Regulation are seen as essential tools to streamline asylum procedures, enhance returns, and share responsibility among member states, while maintaining humanitarian standards.",
+      "global_south_view": "Critical scholars and developing-country perspectives argue that the EU's externalization policies, such as the safe third country concept and return hubs, shift the burden of migration management onto countries in the Global South, often violating human rights and undermining international protection principles. The Ceuta crisis is viewed as a direct consequence of these policies, which prioritize border control over the rights and dignity of migrants, and reinforce unequal power dynamics between the EU and its neighbors.",
+      "convergence_score": 2,
+      "convergence_note": "While both sides acknowledge the need for orderly migration, they sharply diverge on the legitimacy and human rights implications of externalization measures.",
+      "mainstream_sources": [
+        {
+          "title": "Questions and Answers: The EU Pact on Migration and Asylum | Human Rights Watch",
+          "url": "https://www.hrw.org/news/2026/06/10/questions-and-answers-the-eu-pact-on-migration-and-asylum"
+        },
+        {
+          "title": "Countries Are Pushing Borders Outward to Expand ...",
+          "url": "https://www.migrationpolicy.org/journal/feature/countries-are-pushing-borders-outward-expand-deterrence-and-protection-alike"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "Outsourcing borders Monitoring EU externalisation policy",
+          "url": "https://www.statewatch.org/media/5308/outsourcing-borders-14.pdf"
+        },
+        {
+          "title": "Framing Migration and Migrants Through Border Crises: The Case of Ceuta and Melilla",
+          "url": "https://www.tandfonline.com/doi/full/10.1080/15562948.2025.2460615"
+        }
+      ]
+    },
+    {
+      "title": "US\u2013Saudi Arabia Nuclear Cooperation Agreement",
+      "framing": "On July 22, 2026, the US administration announced a civilian nuclear cooperation agreement with Saudi Arabia, known as a 123 agreement, which would allow US nuclear technology exports to the kingdom. The deal has raised concerns among nonproliferation advocates because it reportedly does not require Saudi Arabia to forgo enrichment and reprocessing capabilities or adopt the highest IAEA safeguards, and it is linked to Saudi normalization with Israel.",
+      "mainstream_view": "The US administration frames the agreement as a legally sound partnership that strengthens nonproliferation by bringing Saudi Arabia under US safeguards and oversight, while also advancing geopolitical interests in the Middle East. The deal is presented as consistent with strong nonproliferation standards, and the administration emphasizes that it will promote regional stability and economic cooperation.",
+      "global_south_view": "Critics, including arms control groups and some members of Congress, argue that the agreement sets a dangerous precedent by allowing Saudi Arabia to pursue enrichment and reprocessing, which could trigger a regional arms race and undermine the global nonproliferation regime. They contend that the deal prioritizes commercial and geopolitical gains over long-term security and fails to require the highest standards of transparency and safeguards, such as the Additional Protocol.",
+      "convergence_score": 2,
+      "convergence_note": "There is a fundamental disagreement over whether the agreement enhances or undermines nonproliferation, with the administration emphasizing oversight and critics highlighting the risks of unchecked fuel cycle capabilities.",
+      "mainstream_sources": [
+        {
+          "title": "US\u2013Saudi Arabia Nuclear Cooperation",
+          "url": "https://verfassungsblog.de/us-saudi-arabia-nuclear-cooperation"
+        },
+        {
+          "title": "Prospects for U.S.-Saudi Nuclear Energy Cooperation",
+          "url": "https://www.congress.gov/crs-product/IF10799"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "U.S.-Saudi Deal Said to Loosen Nonproliferation Vows | Arms Control Association",
+          "url": "https://www.armscontrol.org/act/2026-03/news/us-saudi-deal-said-loosen-nonproliferation-vows"
+        },
+        {
+          "title": "The Saudi Nuclear Deal Would Set a Dangerous New Proliferation Precedent | Council on Foreign Relations",
+          "url": "https://www.cfr.org/articles/the-saudi-nuclear-deal-would-set-a-dangerous-new-proliferation-precedent"
+        }
+      ]
+    },
+    {
+      "title": "The Right Not to Move: Legal Frameworks for Immobility and Climate-Induced Displacement",
+      "framing": "Climate change is increasingly displacing people, yet international law lacks a specific framework for 'climate refugees.' The ICJ's 2025 advisory opinion affirmed that states have obligations under non-refoulement to protect individuals from climate-related risks, and various initiatives like the Nansen Initiative have developed soft-law frameworks for cross-border displacement. However, legal gaps remain, and some argue for a 'right not to move' to enable people to stay in their homes.",
+      "mainstream_view": "Mainstream legal scholarship and policy institutions recognize the need to address climate displacement through existing human rights law, including non-refoulement, and through cooperative frameworks like the Nansen Initiative's Agenda for Protection. They advocate for enhancing national and local responses, integrating climate migration into development planning, and potentially creating new legal instruments to fill gaps, while emphasizing state sovereignty and practical implementation.",
+      "global_south_view": "Global South perspectives highlight that climate displacement disproportionately affects developing countries, which have contributed least to emissions yet face the greatest impacts. They argue that international frameworks must prioritize the right to remain and support adaptation and resilience in vulnerable communities, rather than focusing solely on cross-border movement. They also stress the need for financial and technical support from developed countries to enable people to stay, and criticize the lack of binding obligations.",
+      "convergence_score": 3,
+      "convergence_note": "Both sides agree on the importance of protecting climate-displaced persons, but they diverge on the emphasis between facilitating mobility and ensuring the right to stay, and on the need for binding versus voluntary frameworks.",
+      "mainstream_sources": [
+        {
+          "title": "Climate Migration: The State of Play on National, International, and Local ...",
+          "url": "https://bipartisanpolicy.org/explainer/climate-migration-the-state-of-play-on-national-international-and-local-response-frameworks"
+        },
+        {
+          "title": "How the ICJ\u2019s Advisory Opinion on Climate Change Addresses Displacement, International Protection and Ongoing Statehood",
+          "url": "https://researchinginternaldisplacement.org/short_pieces/how-the-icjs-advisory-opinion-on-climate-change-addresses-displacement-international-protection-and-ongoing-statehood"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "When people are displaced by climate change, what rights do they have? - Amnesty International",
+          "url": "https://www.amnesty.org/en/latest/campaigns/2025/10/when-people-are-displaced-by-climate-change-what-rights-do-they-have"
+        },
+        {
+          "title": "A Global Migration Framework Under Water: How Can the International Community Protect Climate Refugees?",
+          "url": "https://cjil.uchicago.edu/online-archive/global-migration-framework-under-water-how-can-international-community-protect"
+        }
+      ]
+    },
+    {
+      "title": "Binding Without Debating: Executive Treaty-Making and Democratic Legitimacy",
+      "framing": "The expansion of executive treaty-making, particularly through sole executive agreements, has raised concerns about democratic legitimacy and parliamentary oversight. Scholars and constitutional bodies have noted that treaties increasingly regulate people's lives, yet executives often negotiate and conclude them without meaningful legislative input. This issue is relevant to international economic law, where trade and investment agreements are often concluded as executive agreements.",
+      "mainstream_view": "Mainstream legal analysis acknowledges the constitutional framework that grants the executive primary authority in treaty negotiation, but emphasizes the importance of congressional and parliamentary oversight to ensure democratic legitimacy. Institutions like the Constitution Society argue for enhanced parliamentary scrutiny of treaties, while recognizing the practical need for executive flexibility in international negotiations.",
+      "global_south_view": "From a Global South perspective, the lack of democratic debate in treaty-making is particularly concerning because developing countries often face power asymmetries in negotiations with developed nations and multinational corporations. The push for a UN binding treaty on business and human rights reflects a desire for more inclusive and accountable international law-making that addresses the impacts of economic agreements on vulnerable populations, rather than leaving decisions to executive branches and corporate interests.",
+      "convergence_score": 3,
+      "convergence_note": "Both sides agree on the need for greater democratic input in treaty-making, but they differ on the scope and mechanisms, with Global South perspectives emphasizing the need to address power imbalances and corporate accountability.",
+      "mainstream_sources": [
+        {
+          "title": "Parliamentary Scrutiny of Treaties: Time for Change? - The Constitution Society",
+          "url": "https://consoc.org.uk/parliamentary-scrutiny-of-treaties"
+        },
+        {
+          "title": "International Law and Agreements: Their Effect upon U.S. Law | Congress.gov",
+          "url": "https://www.congress.gov/crs-product/RL32528"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "UN binding treaty - Business and Human Rights Centre",
+          "url": "https://www.business-humanrights.org/en/big-issues/governing-business-human-rights/un-binding-treaty"
+        },
+        {
+          "title": "From Treaties to International Commitments: The Changing Landscape of Foreign Relations Law",
+          "url": "https://lawreview.uchicago.edu/print-archive/treaties-international-commitments-changing-landscape-foreign-relations-law"
+        }
+      ]
+    },
+    {
+      "title": "The Enhanced Games and Human Rights: Regulating Doping and Athlete Welfare",
+      "framing": "The inaugural Enhanced Games, held in Las Vegas in May 2026, allowed athletes to use performance-enhancing substances that are legal under FDA rules but banned by the World Anti-Doping Agency. The event has been condemned by anti-doping authorities and raises questions about athlete welfare, human rights, and the adequacy of international sports law to regulate such competitions.",
+      "mainstream_view": "Mainstream sports law and human rights perspectives emphasize the need to protect athletes' health and uphold the integrity of sport. They argue that events like the Enhanced Games undermine the global anti-doping framework and could expose athletes to serious health risks, necessitating state regulation and international cooperation to ensure that sports competitions respect human rights and safety standards.",
+      "global_south_view": "From a Global South perspective, the Enhanced Games highlight the commercialization of sport and the exploitation of athletes, particularly those from developing countries who may be lured by financial incentives without adequate protections. There is concern that such events exacerbate inequalities and prioritize profit over athlete welfare, and that international sports governance must be reformed to ensure equitable treatment and safety for all athletes, regardless of their origin.",
+      "convergence_score": 2,
+      "convergence_note": "Both sides agree on the importance of athlete welfare, but they diverge on the role of regulation and the underlying causes of exploitation, with Global South views emphasizing systemic inequalities.",
+      "mainstream_sources": [
+        {
+          "title": "The Enhanced Games from a Human Rights Perspective",
+          "url": "https://verfassungsblog.de/the-enhanced-games-from-a-human-rights-perspective"
+        },
+        {
+          "title": "What Athletes Need to Know About the Enhanced Games",
+          "url": "https://www.usada.org/spirit-of-sport/need-know-enhanced-games"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "Analyzing Doping, Enhanced Sport, and Enterprise Responsibility - Stanford Law School",
+          "url": "https://law.stanford.edu/2026/05/22/analyzing-doping-enhanced-sport-and-enterprise-responsibility"
+        },
+        {
+          "title": "Enhanced Games: what\u2019s the issue?",
+          "url": "https://theconversation.com/enhanced-games-whats-the-issue-284487"
+        }
+      ]
+    },
+    {
+      "title": "Cyclical and Foreseeable Threats: Climate Change, Security, and International Investment Law",
+      "framing": "Climate change is increasingly recognized as a cyclical and foreseeable threat with significant security implications, and international investment law is being scrutinized for its role in either facilitating or hindering climate action. The ICJ's advisory opinion has confirmed binding obligations to address climate change, and there are ongoing efforts to reform investment treaties to align with climate goals.",
+      "mainstream_view": "Mainstream investment law scholarship and institutions like IISD and ASIL are exploring how to reform international investment agreements to support climate action, for example by including climate change clauses and ensuring that states retain regulatory space to implement climate policies. They argue that investment law can be adapted to balance investor protections with the urgent need for climate mitigation and adaptation, and that ISDS can be reformed to address climate-related disputes.",
+      "global_south_view": "Global South perspectives emphasize that investment treaties have historically constrained developing countries' ability to regulate in the public interest, including for climate action, and that the ISDS system often favors foreign investors over host states. They argue for a fundamental rebalancing of investment law to prioritize climate and sustainable development, and for mechanisms that hold investors accountable for climate impacts, rather than merely tweaking existing treaties.",
+      "convergence_score": 3,
+      "convergence_note": "There is growing recognition on both sides that investment law must evolve to address climate change, but they differ on the depth of reform needed, with Global South views calling for more transformative changes.",
+      "mainstream_sources": [
+        {
+          "title": "International Court of Justice Advisory Opinion on Climate Change Obligations and Its Implications for Investment Policy-making | IISD",
+          "url": "https://www.iisd.org/events/international-court-justice-advisory-opinion-climate-change-obligations-and-its-implications"
+        },
+        {
+          "title": "Addressing Climate Change in ISDS: Introducing the ASIL Task Force on ISDS and Climate Change | Kluwer Arbitration Blog",
+          "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/addressing-climate-change-in-isds-introducing-the-asil-task-force-on-isds-and-climate-change"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "Climate Change and International Investment Law",
+          "url": "https://www.iisd.org/events/international-court-justice-advisory-opinion-climate-change-obligations-and-its-implications"
+        },
+        {
+          "title": "Climate Change Clauses in International Investment Agreements",
+          "url": "https://www.iisd.org/events/international-court-justice-advisory-opinion-climate-change-obligations-and-its-implications"
+        }
+      ]
+    }
+  ]
+}
