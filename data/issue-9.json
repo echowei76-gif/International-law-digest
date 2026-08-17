@@ -1,0 +1,148 @@
+{
+  "topics": [
+    {
+      "title": "AI in International Arbitration: Cognitive Bias and Reliability of Arbitral Decision-Making",
+      "framing": "The integration of AI tools into international arbitration is prompting examination of how human\u2013AI interaction affects arbitral decision-making, with concerns about cognitive bias and reliability. Recent scholarship and institutional guidance emphasize the need for human oversight and verification when AI is used in legal research, drafting, and analysis.",
+      "mainstream_view": "Mainstream arbitration scholarship and institutions view AI as a valuable tool that can enhance efficiency and consistency in arbitral decision-making, provided that human arbitrators retain ultimate responsibility and oversight. Institutional guidance consistently permits AI use but mandates human verification and prohibits delegation of decision-making, reflecting a cautious optimism that AI can be integrated without compromising due process or impartiality.",
+      "global_south_view": "Critical and Global South perspectives caution that AI in arbitration may replicate and amplify existing biases, particularly given the unequal access to advanced technology between developed and developing countries. There is concern that AI tools, often developed in the Global North, may not adequately account for diverse legal traditions and may undermine the legitimacy of arbitration if not carefully regulated to ensure fairness and transparency.",
+      "convergence_score": 3,
+      "convergence_note": "Both sides agree on the need for human oversight and the risks of bias, but diverge on the degree of trust in AI and the adequacy of current safeguards.",
+      "mainstream_sources": [
+        {
+          "title": "The Psychology of Arbitration in the AI Era: Human\u2013AI Interaction, Cognitive Bias, and the Reliability of Arbitral Decision-Making",
+          "url": "http://opiniojuris.org/2026/08/17/the-psychology-of-arbitration-in-the-ai-era-human-ai-interaction-cognitive-bias-and-the-reliability-of-arbitral-decision-making/"
+        },
+        {
+          "title": "AI in Arbitration: Institutional Guidance and Emerging Developments",
+          "url": "https://www.scl.org/ai-in-arbitration-institutional-guidance-and-emerging-developments"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "Should Arbitrators Disclose Their ChatGPT History? Peru\u2019s New AI Regulation, Algorithmic Bias, and Impartiality",
+          "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/should-arbitrators-disclose-their-chatgpt-history-perus-new-ai-regulation-algorithmic-bias-and-impartiality"
+        }
+      ]
+    },
+    {
+      "title": "Climate Litigation and Corporate Accountability: TotalEnergies and the Legacy of KlimaSeniorinnen",
+      "framing": "In June 2026, a French court ruled that TotalEnergies' vigilance plan was incomplete for failing to include Scope 3 emissions, ordering the company to revise it. This decision follows the European Court of Human Rights' landmark KlimaSeniorinnen ruling, which established state obligations to mitigate climate change, and signals a trend toward holding corporations accountable for climate impacts.",
+      "mainstream_view": "Mainstream legal scholars and institutions view the TotalEnergies ruling as a logical extension of the KlimaSeniorinnen principle, affirming that corporate due diligence obligations encompass full value-chain emissions. They see it as a positive development that clarifies legal standards for corporate climate responsibility, while noting the need for careful balancing with economic interests and the limits of judicial intervention.",
+      "global_south_view": "Global South and critical scholars welcome the TotalEnergies decision as a step toward corporate accountability, but emphasize that such litigation often benefits wealthier plaintiffs and may not address the disproportionate impacts of climate change on developing countries. They argue that the focus on corporate vigilance plans should not overshadow the need for systemic changes and that courts must ensure remedies are accessible and effective for marginalized communities.",
+      "convergence_score": 4,
+      "convergence_note": "Both sides recognize the importance of corporate accountability for climate harm, with differences mainly in emphasis on systemic versus individual remedies.",
+      "mainstream_sources": [
+        {
+          "title": "TotalEnergies and the Duty of Vigilance: an Analysis of the June 25, 2026 Ruling",
+          "url": "https://ccli.ubc.ca/totalenergies-and-the-duty-of-vigilance-an-analysis-of-the-june-25-2026-ruling"
+        },
+        {
+          "title": "Standing and Remedies in Climate Litigation: How TotalEnergies Echoes KlimaSeniorinnen",
+          "url": "https://www.ejiltalk.org/standing-and-remedies-in-climate-litigation-how-totalenergies-echoes-klimaseniorinnen/"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "TotalEnergies Found Liable for Failing to Fulfil Its Climate Vigilance Obligations",
+          "url": "https://www.asso-sherpa.org/totalenergies-climate-judgment"
+        }
+      ]
+    },
+    {
+      "title": "Universal Jurisdiction and the Future Crimes Against Humanity Convention: Prosecuting Asia-Pacific Crimes",
+      "framing": "The UN General Assembly has advanced negotiations on a global Crimes Against Humanity Convention, with preparatory sessions scheduled for 2026-2027. In parallel, universal jurisdiction cases are being pursued in domestic courts to address atrocities in Myanmar and other Asia-Pacific countries, highlighting both the potential and limitations of these mechanisms.",
+      "mainstream_view": "Mainstream international law scholars and institutions view the proposed Crimes Against Humanity Convention as a crucial step to close impunity gaps, complementing the ICC and domestic prosecutions. They argue that universal jurisdiction, when properly implemented, provides an essential tool for accountability, and they support the convention's provisions on prevention and cooperation as strengthening the international legal framework.",
+      "global_south_view": "Global South and critical scholars caution that universal jurisdiction and the new convention may be applied selectively, often targeting weaker states while powerful nations remain immune. They emphasize the need for the convention to respect state sovereignty and ensure that accountability mechanisms do not become tools for political interference, while also stressing the importance of victim-centered approaches and addressing root causes of atrocities.",
+      "convergence_score": 3,
+      "convergence_note": "Both sides support accountability for crimes against humanity, but diverge on the risks of selective application and the balance between sovereignty and universal jurisdiction.",
+      "mainstream_sources": [
+        {
+          "title": "Symposium on Prosecuting Asia-Pacific Crimes: Crimes Against Humanity Convention and the Obligation to Prevent",
+          "url": "http://opiniojuris.org/2026/08/12/symposium-on-prosecuting-asia-pacific-crimes-prosecuting-asia-pacific-crimes-in-domestic-courts-crimes-against-humanity-convention-and-the-obligation-to-prevent/"
+        },
+        {
+          "title": "It's Time for a Global Convention on Crimes Against Humanity",
+          "url": "https://www.globalr2p.org/publications/its-time-for-a-global-convention-on-crimes-against-humanity"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "The Engagement of Asian States with Universal Jurisdiction in the United Nations",
+          "url": "https://asiansilvoices.com/the-engagement-of-asian-states-with-universal-jurisdiction-in-the-united-nations"
+        }
+      ]
+    },
+    {
+      "title": "Ecocide as an International Crime: Legal Developments and the 'Improved Conversation'",
+      "framing": "The movement to criminalize ecocide at the international level is gaining momentum, with states like Mauritius enacting domestic ecocide laws and island states like Vanuatu, Fiji, and Samoa advocating for recognition under the Rome Statute. However, no formal amendment has been adopted yet, and debates continue over the definition and scope of ecocide.",
+      "mainstream_view": "Mainstream legal scholars and advocates view ecocide as a necessary addition to international criminal law to deter severe environmental destruction. They argue that amending the Rome Statute to include ecocide would send a strong signal and provide a legal basis for prosecuting individuals and corporations, while acknowledging the need for careful definition to avoid overreach.",
+      "global_south_view": "Global South and critical scholars support the criminalization of ecocide but caution that it must not be used to target developing countries while ignoring the historical and ongoing environmental harms caused by industrialized nations and multinational corporations. They emphasize that ecocide law should be coupled with broader reforms to address ecological debt and ensure that environmental protection does not become a new tool for geopolitical domination.",
+      "convergence_score": 3,
+      "convergence_note": "There is broad agreement on the need to address severe environmental harm, but significant differences remain on the definition, scope, and potential for misuse of ecocide law.",
+      "mainstream_sources": [
+        {
+          "title": "Ecocide as the Fifth International Crime",
+          "url": "https://voelkerrechtsblog.org/ecocide-as-the-fifth-international-crime"
+        },
+        {
+          "title": "Amendments to the Rome Statute",
+          "url": "https://www.eda.admin.ch/en/amendments-to-the-rome-statute"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "Changing Paradigms, Protecting Nature: Ecocide in International Law",
+          "url": "https://centerforearthethics.org/blog/changing-paradigms-protecting-nature-ecocide-in-international-law"
+        }
+      ]
+    },
+    {
+      "title": "AI-Enabled Targeting and International Humanitarian Law: Model Evaluation and Legal Limits",
+      "framing": "The use of AI in military targeting is raising questions about compliance with international humanitarian law (IHL), particularly regarding civilian protection and accountability. Recent analyses and policy discussions emphasize the need for human oversight and rigorous evaluation of AI models to ensure they meet IHL standards.",
+      "mainstream_view": "Mainstream IHL scholars and institutions, including the ICRC, argue that AI-enabled targeting must remain under human control and that states must conduct thorough legal reviews of such systems under Article 36 of Additional Protocol I. They emphasize that IHL principles of distinction, proportionality, and precaution apply equally to AI-assisted targeting, and that accountability cannot be transferred to machines.",
+      "global_south_view": "Global South and critical scholars highlight the disproportionate impact of AI-enabled targeting on civilians in developing countries, where conflicts often occur. They argue that the development and use of such technologies by powerful states exacerbates existing inequalities and that international law must be strengthened to prevent the normalization of automated warfare, which may lead to increased civilian harm and erosion of accountability.",
+      "convergence_score": 3,
+      "convergence_note": "Both sides agree on the need for human oversight and IHL compliance, but differ on the urgency and scope of regulation, with Global South voices calling for more stringent prohibitions.",
+      "mainstream_sources": [
+        {
+          "title": "Deciding under algorithms: artificial intelligence and the protection of civilian infrastructure in armed conflict",
+          "url": "https://blogs.icrc.org/law-and-policy/2026/03/12/deciding-under-algorithms-artificial-intelligence-and-the-protection-of-civilian-infrastructure-in-armed-conflict"
+        },
+        {
+          "title": "Legal Accountability for AI-Driven Autonomous Weapons",
+          "url": "https://lieber.westpoint.edu/legal-accountability-ai-driven-autonomous-weapons"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "Ai-Assisted Targeting and Semi-Autonomous Weapons Systems in the Israel-Gaza War: An International Humanitarian Law Analysis",
+          "url": "https://journals.eanso.org/index.php/eajle/article/view/4672"
+        }
+      ]
+    },
+    {
+      "title": "The ICC Prosecutor Removal Controversy: Political Pressures and the Court's Independence",
+      "framing": "In July 2026, the ICC's Assembly of States Parties voted to remove Prosecutor Karim Khan following allegations of sexual misconduct, with 82 votes in favor and 13 against. The decision has sparked debates about due process, political influence, and the independence of the Court.",
+      "mainstream_view": "Mainstream international law scholars and human rights organizations, such as FIDH, view the removal as a necessary step to uphold the ICC's integrity and accountability, provided that due process was followed. They argue that the independent investigation and the decisive vote demonstrate the Court's ability to address misconduct while maintaining its independence from political interference.",
+      "global_south_view": "Global South and critical scholars express concern that the removal process may have been influenced by political pressures, particularly from powerful states that have been critical of the ICC's investigations. They argue that the focus on the prosecutor's conduct could distract from the Court's broader challenges, including its perceived bias against African and other developing countries, and that the process must be transparent to preserve the Court's legitimacy.",
+      "convergence_score": 2,
+      "convergence_note": "While both sides agree on the importance of accountability, there is sharp disagreement over whether the removal was politically motivated and whether the process was fair.",
+      "mainstream_sources": [
+        {
+          "title": "International Criminal Court Prosecutor's removal: Protecting the Court means defending both its integrity and its independence",
+          "url": "https://www.fidh.org/en/issues/international-justice/international-criminal-court-icc/icc-prosecutor-s-removal-protecting-the-court-means-defending-both"
+        },
+        {
+          "title": "Before the Assembly: The Removal Vote and the Question of Fitness for Office",
+          "url": "https://www.justsecurity.org/148713/icc-prosecutor-removal-vote"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "Independence of the ICC under Friendly Fire?",
+          "url": "https://internationallaw.blog/2026/04/10/independence-of-the-icc-under-friendly-fire"
+        }
+      ]
+    }
+  ]
+}
