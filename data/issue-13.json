@@ -1,0 +1,220 @@
+{
+  "topics": [
+    {
+      "title": "African Court's Climate Advisory Opinion and Climate (Im)Mobility",
+      "framing": "The African Court on Human and Peoples' Rights is preparing an advisory opinion on African states' human rights obligations in addressing the climate crisis, following a request that covers vulnerable populations, mitigation and adaptation, loss and damage remedies, and just transition. A broad set of actors \u2014 states, NGOs, and academics \u2014 have submitted written observations, and the Court has wide latitude to draw on multiple sources of law, including Article 24 of the African Charter on the right of peoples to a healthy environment. The opinion is expected to address the intersection of climate harms, displacement, and non-refoulement.",
+      "mainstream_view": "This is a welcome, rights-based development that reinforces the global trend of climate advisory opinions (following the ICJ and ITLOS) and gives African states clear, universal guidance on human rights obligations, remedies, and adaptation. The process is legitimate and inclusive, with broad participation by states and civil society, and it can strengthen the rule of law and cooperative climate governance.",
+      "global_south_view": "The opinion is an opportunity for African-led climate justice that centers the continent's distinct vulnerabilities, historical responsibility of developed states, and the need for remedies and loss-and-damage support rather than externally driven litigation agendas. There is concern that foreign-funded advocacy can distort priorities by blocking African energy projects, so the process should be led by African voices and grounded in the African Charter's dignity and peoples' rights framework.",
+      "convergence_score": 4,
+      "convergence_note": "Both sides broadly support the advisory opinion as a rights-affirming step, differing mainly on emphasis regarding external influence and the weight of historical responsibility.",
+      "mainstream_sources": [
+        {
+          "title": "Anticipating a Climate Moment in Arusha: State Obligations in the African Court's Forthcoming Advisory Opinion",
+          "url": "https://verfassungsblog.de/african-court-on-human-and-peoples-rights-climate-advisory-opinion"
+        },
+        {
+          "title": "Symposium on Climate (Im)Mobility and the African Court's Climate Advisory Opinion: An Introduction",
+          "url": "http://opiniojuris.org/2026/09/21/symposium-on-climate-immobility-and-the-african-courts-climate-advisory-opinion-an-introduction/"
+        },
+        {
+          "title": "Symposium on Climate (Im)Mobility and the African Court's Climate Advisory Opinion: An Opportunity for the African Court on Human and Peoples' Rights to Address the Climate Crisis from a Rights Lens",
+          "url": "http://opiniojuris.org/2026/09/21/an-opportunity-for-the-african-court-on-human-and-peoples-rights-to-address-the-climate-crisis-from-a-rights-lens/"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "CIEL Observations on African Court Climate Advisory Opinion Request",
+          "url": "https://www.ciel.org/wp-content/uploads/2026/03/CIEL-Observations-on-African-Court-Climate-Advisory-Opinion-Request-30-Mar-2026.pdf"
+        },
+        {
+          "title": "African Court considers evidence on climate advisory opinion",
+          "url": "https://www.the-wave.net/african-court-sifts-ao-evidence"
+        },
+        {
+          "title": "Africa's Advisory Opinion Request: Taking Climate Justice to the Continent's Highest Court",
+          "url": "https://blogs.law.columbia.edu/climatechange/2025/05/07/africas-advisory-opinion-request-taking-climate-justice-to-the-continents-highest-court"
+        }
+      ]
+    },
+    {
+      "title": "AI-Enabled Warfare and International Humanitarian Law Precautions",
+      "framing": "A UN Independent International Fact-Finding Mission on Iran reported reasonable grounds to believe the United States committed war crimes in two February 2026 strikes in Iran, including one on an elementary school in Minab that killed at least 157 people, and examined precautions in AI-enabled warfare. The report also accused Iran of human rights violations and crimes against humanity during protests. The findings have been widely reported and raise questions about how IHL principles of distinction, proportionality, and precaution apply when AI systems are used in targeting.",
+      "mainstream_view": "IHL principles remain fully applicable to AI-enabled weapons, and the core challenge is ensuring human control and compliance with distinction, proportionality, and precaution, especially in urban settings. The UN findings and General Assembly resolution 79/239 reflect a shared institutional concern that AI must not outpace international humanitarian law, and that accountability should follow established legal frameworks.",
+      "global_south_view": "The strikes and the use of AI-enabled targeting illustrate a persistent double standard in international accountability, where powerful states' violations are documented but rarely enforced, and where the human cost falls disproportionately on civilians in the Global South. The emphasis should be on ending impunity, protecting civilians, and constraining technologically advanced militaries rather than on abstract compliance frameworks.",
+      "convergence_score": 3,
+      "convergence_note": "Both sides accept the factual findings and the relevance of IHL, but they diverge on whether the main problem is legal compliance or structural impunity and double standards.",
+      "mainstream_sources": [
+        {
+          "title": "UN Fact-Finding Mission on Iran: U.S. War Crimes and Precautions in AI-Enabled Warfare",
+          "url": "http://opiniojuris.org/2026/09/18/un-fact-finding-mission-on-iran-u-s-war-crimes-and-precautions-in-ai-enabled-warfare"
+        },
+        {
+          "title": "The Iran IIFFM's Unconvincing War Crimes Analysis",
+          "url": "http://opiniojuris.org/2026/09/19/the-iran-iiffms-unconvincing-war-crimes-analysis"
+        },
+        {
+          "title": "Where the Miss Lands: Kuhestak, Minab and the Precautions that Come Before the Balance",
+          "url": "http://opiniojuris.org/2026/09/15/where-the-miss-lands-kuhestak-minab-and-the-precautions-that-come-before-the-balance"
+        },
+        {
+          "title": "AI in conflict: keeping humanity in control",
+          "url": "https://unric.org/en/ai-in-conflict-keeping-humanity-in-control"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "UN fact-finding mission says US committed possible war crimes in Iran",
+          "url": "https://www.aljazeera.com/news/2026/9/17/un-fact-finding-mission-says-us-committed-possible-war-crimes-in-iran"
+        },
+        {
+          "title": "U.N. mission finds grounds to believe U.S. committed war crimes in Iran",
+          "url": "https://www.nbcnews.com/world/iran/un-mission-finds-grounds-believe-us-committed-war-crimes-iran-rcna598283"
+        }
+      ]
+    },
+    {
+      "title": "Marine Geoengineering and International Legal Obligations",
+      "framing": "International law governing marine geoengineering is fragmented and underdeveloped, with the London Convention and London Protocol providing the only explicit regulation of activities such as ocean fertilization. The ITLOS advisory opinion clarified that UNCLOS Article 192 imposes a broad obligation to protect and preserve the marine environment, including from climate-related impacts, while environmental impact assessment requirements give effect to precaution and due diligence. Proposed marine geoengineering activities involve novel interventions, uncertain effects, and risks extending beyond national jurisdiction.",
+      "mainstream_view": "The existing framework \u2014 UNCLOS, the London Convention and Protocol, and customary rules on transboundary harm \u2014 provides a workable, precautionary basis for governing marine geoengineering through environmental impact assessments, due diligence, and prevention obligations. The priority is to strengthen and coordinate these regimes so that novel activities are carefully assessed and managed without foreclosing potentially necessary climate interventions.",
+      "global_south_view": "The current governance is too general and open-ended, leaving room for technologically advanced states and private actors to deploy marine geoengineering with transboundary and cumulative impacts on vulnerable coastal and island communities. Stronger, binding, and equitable rules are needed, with meaningful participation by affected states and a precautionary approach that prevents harm rather than merely managing it.",
+      "convergence_score": 4,
+      "convergence_note": "Both sides endorse precaution, environmental impact assessment, and prevention, differing mainly on whether existing general obligations are sufficient or require more binding and equitable rules.",
+      "mainstream_sources": [
+        {
+          "title": "Key International Legal Obligations and Principles Relevant to Marine Geoengineering",
+          "url": "https://opiniojuris.org/2026/09/18/key-international-legal-obligations-and-principles-relevant-to-marine-geoengineering"
+        },
+        {
+          "title": "The ITLOS Advisory Opinion and Marine Geoengineering",
+          "url": "https://verfassungsblog.de/the-itlos-advisory-opinion-and-marine-geoengineering"
+        },
+        {
+          "title": "Marine geoengineering",
+          "url": "https://www.imo.org/en/mediacentre/hottopics/pages/marine-geoengineering.aspx"
+        },
+        {
+          "title": "Climate Governance under the London Convention and Protocol: Precaution and Prevention",
+          "url": "https://blogs.law.columbia.edu/climatechange/2025/09/17/climate-governance-under-the-london-convention-and-protocol-precaution-and-prevention"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "Governance of Marine Geoengineering",
+          "url": "https://www.cigionline.org/static/documents/documents/MarineGov-web.pdf"
+        },
+        {
+          "title": "The International Law of Geoengineering: Case Study in Ocean Alkalinity Enhancement",
+          "url": "https://www.vjil.org/the-international-law-of-geoengineering-case-study-in-ocean-alkalinity-enhancement"
+        }
+      ]
+    },
+    {
+      "title": "Universal Jurisdiction and Atrocity Crimes Enforcement Gap",
+      "framing": "Universal jurisdiction allows states to prosecute core international crimes such as genocide, war crimes, and crimes against humanity, but enforcement remains uneven and politically contested. INTERPOL's 2010 framework for processing requests concerning these crimes contains limitations, including where a request concerns a national of a state, contributing to an enforcement gap. The African Union has criticized the concentration of universal jurisdiction cases brought by former colonial European states against individuals from the Global South, and has developed a model national law on universal jurisdiction.",
+      "mainstream_view": "Universal jurisdiction is a legitimate and necessary tool to close impunity gaps for core international crimes, grounded in treaty obligations and customary rules requiring investigation and prosecution. The priority is to improve international cooperation, including through INTERPOL and national legislation, so that suspects cannot evade accountability, while addressing concerns about selectivity through procedural safeguards.",
+      "global_south_view": "Universal jurisdiction has too often been applied selectively by former colonial powers against African and Global South defendants, raising concerns about political motivation and unequal application. The African Union's model law and its criticism of abuse of the principle reflect a push for accountability that is consistent, respectful of sovereignty, and not a one-way instrument of Northern courts against Southern actors.",
+      "convergence_score": 3,
+      "convergence_note": "Both sides support accountability for atrocity crimes, but they diverge sharply on whether universal jurisdiction is applied fairly or is marred by selective and neo-colonial patterns.",
+      "mainstream_sources": [
+        {
+          "title": "INTERPOL and the Enforcement Gap in War Crimes Cases",
+          "url": "http://opiniojuris.org/2026/09/17/interpol-and-the-enforcement-gap-in-war-crimes-cases"
+        },
+        {
+          "title": "A New Tool in the Fight Against Impunity for Core International Crimes",
+          "url": "https://lieber.westpoint.edu/new-tool-fight-impunity-core-international-crimes"
+        },
+        {
+          "title": "Universal Jurisdiction",
+          "url": "https://opil.ouplaw.com/display/10.1093/law-mpeipro/e2259.013.2259/law-mpeipro-e2259"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "Universal Jurisdiction",
+          "url": "http://judiciariesworldwide.fjc.gov/universal-jurisdiction"
+        },
+        {
+          "title": "African Union Model National Law on Universal Jurisdiction",
+          "url": "https://www.un.org/en/ga/sixth/71/universal_jurisdiction/african_union_e.pdf"
+        },
+        {
+          "title": "Advancing Global Accountability: The Role of Universal Jurisdiction",
+          "url": "https://www.ictj.org/sites/default/files/ICTJ_Report_Universal_Jurisdiction.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Academic Freedom and the Securitization of Universities",
+      "framing": "Universities in several countries face growing pressure on academic freedom, including government attacks on institutions such as Harvard and Columbia, security force incursions onto campuses, and political interference in research and teaching. Debates center on how to protect the university as a space for open inquiry while also addressing security concerns and internal disruptions to events and research formats. The tension is between the university as a site of democratic contestation and as a constitutionally protected space for scientific knowledge production.",
+      "mainstream_view": "Academic freedom is a constitutional and structural principle tied to democratic governance and freedom of inquiry, protecting both institutional autonomy and individual scholars. The state and university leadership have a protective duty to keep the university open to provisional and dissenting theses, and security measures must not be used to suppress politically inconvenient research or teaching.",
+      "global_south_view": "The securitization of universities is part of a broader pattern of state repression and political control over knowledge, often targeting students and faculty who challenge power, with security forces acting without insignia and under pressure on university leadership. The critique emphasizes that academic freedom is undermined not only by external attacks but also by internal silencing and by the use of security framing to criminalize dissent.",
+      "convergence_score": 4,
+      "convergence_note": "Both sides defend academic freedom against political and security pressure, differing mainly on whether the primary threat is external securitization or also internal and state-driven repression.",
+      "mainstream_sources": [
+        {
+          "title": "Wie die Versicherheitlichung der Universit\u00e4t die Wissenschaftsfreiheit untergr\u00e4bt",
+          "url": "https://verfassungsblog.de/versicherheitlichung-der-universitat-wissenschaftsfreiheit/"
+        },
+        {
+          "title": "Two Democratic Cheers for the University",
+          "url": "https://verfassungsblog.de/two-democratic-cheers-for-the-university/"
+        },
+        {
+          "title": "Wissenschaftsfreiheit unter Druck?",
+          "url": "https://verfassungsblog.de/wissenschaftsfreiheit-unter-druck/"
+        },
+        {
+          "title": "Kodex Wissenschaftsfreiheit",
+          "url": "https://www.uni-hamburg.de/uhh/profil/leitbild/kodex-wissenschaftsfreiheit/kodex-wissenschaftsfreiheit.pdf"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "Globaler Austausch zur Wissenschaftsfreiheit",
+          "url": "https://www.hrk.de/themen/internationales/internationale-zusammenarbeit/globaler-austausch-zur-wissenschaftsfreiheit"
+        },
+        {
+          "title": "Die Wissenschaftsfreiheit des Art. 5 Abs. 3 S. 1 GG: Schutzdimensionen und ihre Grenzen",
+          "url": "https://lecture2go.uni-hamburg.de/l2go/-/get/l/7734"
+        }
+      ]
+    },
+    {
+      "title": "EU Enlargement and Associate Membership Models (Iceland, Canada)",
+      "framing": "Iceland voted in an August 2026 referendum to reject restarting EU membership negotiations, with fisheries control and geopolitical stability as central issues. Separately, the European Commission proposed opening the door for Canada to become the EU's first 'associate member,' a status not currently defined in EU treaties, covering cooperation in defence, technology, energy, critical minerals, and the Arctic. Canada welcomed the proposal without seeking full membership.",
+      "mainstream_view": "These developments show the EU's flexible and pragmatic approach to partnerships, respecting democratic choices such as Iceland's 'No' vote while deepening ties with like-minded democracies like Canada through innovative arrangements. The focus is on cooperation on shared priorities \u2014 energy security, technology, and defence \u2014 without forcing full accession where it is not wanted.",
+      "global_south_view": "The EU's outreach to wealthy, like-minded partners such as Canada and its handling of Iceland highlight a selective enlargement and partnership logic that prioritizes geopolitical and economic interests over a rules-based, inclusive process. The 'associate member' concept, undefined in the treaties, risks creating tiered membership that sidelines the Global South and entrenches a club of privileged democracies.",
+      "convergence_score": 3,
+      "convergence_note": "Both sides note the EU's flexible partnership approach, but they diverge on whether it reflects pragmatic cooperation or a selective, exclusionary club of privileged states.",
+      "mainstream_sources": [
+        {
+          "title": "Iceland and EU Accession Referendum",
+          "url": "https://verfassungsblog.de/iceland-and-eu-accession-referendum/"
+        },
+        {
+          "title": "Canada in the EU's Orbit",
+          "url": "https://verfassungsblog.de/canada-eu-associate-member/"
+        },
+        {
+          "title": "Canada welcomes EU proposal to become 'associate member'",
+          "url": "https://www.bbc.com/news/articles/cwly7vkke4jxo"
+        },
+        {
+          "title": "Iceland rejects EU-accession talks in close-fought referendum",
+          "url": "https://www.reuters.com/world/europe/iceland-votes-whether-start-eu-membership-talks-2026-08-29"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "Canadians warm to EU 'associate membership' proposal",
+          "url": "https://www.aljazeera.com/news/2026/9/19/canadians-warm-to-eu-associate-membership-proposal"
+        },
+        {
+          "title": "Canada's Carney welcomes EU's associated membership proposal",
+          "url": "https://www.aljazeera.com/news/2026/9/17/canadas-carney-welcomes-eus-associated-membership-proposal"
+        }
+      ]
+    }
+  ]
+}
