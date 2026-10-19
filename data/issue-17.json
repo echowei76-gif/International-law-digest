@@ -1,0 +1,220 @@
+{
+  "topics": [
+    {
+      "title": "AI Agents, Autonomous Weapons, and the Boundaries of International Legal Responsibility",
+      "framing": "Autonomous weapons systems and action-taking AI agents are being deployed in armed conflict and beyond, while states remain divided over whether a new binding instrument is needed. A global civil-society call has urged governments to agree red lines for AI by the end of 2026, and reporting has described AI-guided drones selecting targets in Ukraine. Legal debate centres on how existing international humanitarian law and accountability frameworks apply to machine decision-making.",
+      "mainstream_view": "Existing IHL already supplies the core rules \u2014 distinction, proportionality, precautions \u2014 and the task is to ensure meaningful human control and clear accountability chains so that commanders and states remain responsible for the systems they deploy. From this perspective, the priority is rigorous implementation, review of weapons under Article 36-type procedures, and possibly targeted regulation, rather than a sweeping ban that major military powers will not accept; the Lieber Institute series frames the question as one of human oversight and legal accountability under IHL.",
+      "global_south_view": "The concentration of AI weapons capability in a handful of powerful states, combined with their resistance to regulation, reproduces a familiar pattern in which the most affected populations bear the risks while rule-making is captured by the technologically dominant. From this view, voluntary oversight and existing IHL are insufficient, and the demand is for binding red lines and a new instrument \u2014 including a ban on fully autonomous systems \u2014 grounded in human dignity, duty, and intergenerational stewardship rather than in the discretion of major powers.",
+      "convergence_score": 2,
+      "convergence_note": "Both sides accept that human responsibility must not be displaced, but they diverge sharply on whether binding prohibition or incremental oversight within existing IHL is the appropriate response.",
+      "mainstream_sources": [
+        {
+          "title": "Legal Accountability for AI-Driven Autonomous Weapons - Lieber Institute West Point",
+          "url": "https://lieber.westpoint.edu/legal-accountability-ai-driven-autonomous-weapons"
+        },
+        {
+          "title": "Re-Centering the Human: Supporting Victims of Lethal Autonomous Weapons Systems - Opinio Juris",
+          "url": "http://opiniojuris.org/2026/10/16/re-centering-the-human-supporting-victims-of-lethal-autonomous-weapons-systems/"
+        },
+        {
+          "title": "AI Defense Contracts and the Legal Limits of Autonomous Weapons - International and Comparative Law Review",
+          "url": "https://international-and-comparative-law-review.law.miami.edu/ai-defense-contracts-and-the-legal-limits-of-autonomous-weapons"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "Governing AI Agents Globally - Just Security",
+          "url": "https://www.justsecurity.org/121990/governing-ai-agents-globally"
+        },
+        {
+          "title": "AI Accountability Framework 2026 - Dr. Pavan Duggal",
+          "url": "https://www.linkedin.com/posts/pavanduggal_ai-activity-7422526502602452992-W5oX"
+        },
+        {
+          "title": "The world must establish red lines for autonomous AI weapons - Help Net Security",
+          "url": "https://www.helpnetsecurity.com/2026/09/17/autonomous-ai-weapons-future"
+        }
+      ]
+    },
+    {
+      "title": "Sanctions, Blocking Statutes, and Third-State Obligations: US Measures Against the ICC and Iran",
+      "framing": "In October 2026 the United States sanctioned the ICC as an institution, following earlier measures against individual prosecutors and judges, and separately intensified aviation-related sanctions against Iranian airlines. EU institutions and member states are debating whether to activate the Blocking Statute to shield European operators, while commentators ask whether third states have obligations under the Geneva Conventions when sanctions impede humanitarian protection.",
+      "mainstream_view": "Sanctions are a legitimate foreign-policy instrument, but extraterritorial secondary sanctions raise real problems of sovereignty and can obstruct the functioning of international institutions and humanitarian law. The appropriate response is a calibrated legal one: activating and modernising the Blocking Statute, using EU and multilateral diplomacy, and invoking the duty to ensure respect for the Geneva Conventions \u2014 while acknowledging that blocking measures have historically failed to change US conduct and carry their own costs for European operators.",
+      "global_south_view": "US sanctions function as coercive unilateralism that penalises third states and populations, in this case undermining both the ICC's ability to deliver justice and civilians' access to aviation safety and humanitarian goods. From this perspective, the Blocking Statute's commercial origins must be transcended so it becomes a genuine shield against unlawful extraterritorial measures, and the focus should be on the coercive hierarchy of the sanctions regime rather than on compliance management.",
+      "convergence_score": 3,
+      "convergence_note": "Both camps criticise extraterritorial overreach and support shielding the ICC and humanitarian access, but they differ on whether the answer is legal-technical defence within the existing order or a challenge to sanctions unilateralism as such.",
+      "mainstream_sources": [
+        {
+          "title": "ICC Sanctions and the EU Blocking Statute: Lessons from a Past EU Failure to Hold the United States Accountable - Opinio Juris",
+          "url": "http://opiniojuris.org/2026/10/16/icc-sanctions-and-the-eu-blocking-statute-lessons-from-a-past-eu-failure-to-hold-the-united-states-accountable/"
+        },
+        {
+          "title": "When Sanctions Affect IHL: Third States' Obligations to Ensure Respect for the Geneva Conventions - Opinio Juris",
+          "url": "http://opiniojuris.org/2026/10/16/when-sanctions-affect-ihl-third-states-obligations-to-ensure-respect-for-the-geneva-conventions-in-the-context-of-u-s-sanctions-against-iranian-airlines/"
+        },
+        {
+          "title": "Iranian Airlines Sanctions: Can the U.S. Ground Flights Abroad? - Diplomacy and Law",
+          "url": "https://www.diplomacyandlaw.com/post/iranian-airlines-sanctions"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "EU must shield ICC from US sanctions - Amnesty International European Institutions Office",
+          "url": "https://www.amnesty.eu/news/eu-must-shield-icc-from-us-sanctions"
+        },
+        {
+          "title": "Spain asks the European Commission to ensure US sanctions have no effect in the EU - La Moncloa",
+          "url": "https://www.lamoncloa.gob.es/lang/en/presidente/news/paginas/2026/20260506-eu-blocking-statute.aspx"
+        },
+        {
+          "title": "US aviation sanctions disrupt Iran flights, push travellers overland - Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland"
+        }
+      ]
+    },
+    {
+      "title": "Climate Litigation and Corporate Accountability Before Domestic and International Fora",
+      "framing": "Climate litigation is expanding worldwide, including the US Supreme Court's review of Suncor Energy v. Boulder County, where communities seek damages from fossil-fuel producers for climate harms and alleged deception. Internationally, cases such as Lliuya v. RWE, Milieudefensie v. Shell, and the Pakistan Climate Cost Case are refining theories of corporate responsibility, and the ICJ's 2025 advisory opinion is being invoked in follow-on actions.",
+      "mainstream_view": "Courts are a legitimate but incremental avenue for accountability, and the key questions are jurisdictional and remedial: whether state-law claims can proceed, how causation and attribution can be established, and how remedies can be implemented. The ICJ advisory opinion and the growing body of cases are read as clarifying states' and investors' obligations, with attention to the tension between climate policy and investment-protection commitments under ISDS.",
+      "global_south_view": "Climate litigation is a tool of redistribution and corrective justice for communities that contributed least to emissions but face the gravest harms, and it must confront corporate impunity and the structural power of fossil-fuel capital. From this perspective, the emphasis is on rights-based and Global South-led litigation, smart remedies that ensure implementation, and the need to re-evaluate investment agreements so that ISDS cannot be used to chill climate regulation.",
+      "convergence_score": 3,
+      "convergence_note": "Both sides see litigation as a meaningful accountability channel and share concern about ISDS chilling effects, but they differ on whether the aim is procedural clarification within existing doctrine or structural redress for unequal historical responsibility.",
+      "mainstream_sources": [
+        {
+          "title": "Suncor Energy (U.S.A.) Inc. v. County Commissioners of Boulder County - Climate Litigation Database",
+          "url": "https://www.climatecasechart.com/collections/board-of-county-commissioners-of-boulder-county-v-suncor-energy-u-s-a-inc-_be5980"
+        },
+        {
+          "title": "What to Know About the Supreme Court's Big Climate Case: Suncor v. Boulder - Earthjustice",
+          "url": "https://earthjustice.org/brief/2026/what-to-know-about-suncor-energy-v-boulder-county"
+        },
+        {
+          "title": "Climate change Litigation insights for 2026 - DAC Beachcroft",
+          "url": "https://insurance.dacbeachcroft.com/content/climate-change-litigation-in-2026"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "Global trends in climate change litigation: 2026 snapshot - LSE Grantham Institute",
+          "url": "https://www.lse.ac.uk/granthaminstitute/wp-content/uploads/2026/06/Global-trends-in-climate-litigation_annexes.pdf"
+        },
+        {
+          "title": "Climate litigation in 2026: maturity, momentum and a wider cast of characters - IIGCC",
+          "url": "https://www.iigcc.org/insights/climate-litigation-in-2026"
+        },
+        {
+          "title": "U.S. Supreme Court decides to hear climate case against ExxonMobil and Suncor Entities - Boulder County",
+          "url": "https://bouldercounty.gov/news/u-s-supreme-court-decides-to-hear-climate-case-against-exxonmobil-and-suncor-entities"
+        }
+      ]
+    },
+    {
+      "title": "The ICJ Right to Strike Advisory Opinion and Systemic Integration in IEL/IIL",
+      "framing": "On 21 May 2026 the ICJ delivered an advisory opinion concluding that ILO Convention No. 87 protects the right to strike, resolving a long-running interpretation dispute referred by the ILO. Commentators are analysing the Court's teleological method and its implications for systemic integration across labour, human rights, and economic law.",
+      "mainstream_view": "The opinion is a welcome clarification that strengthens the coherence of international law through systemic integration, reading Convention No. 87 in light of human rights obligations and contemporary understandings of freedom of association. The Court's teleological approach is defended as faithful to the treaty's object and purpose, and the focus now shifts to how states and adjudicative bodies incorporate the ruling consistently across regimes.",
+      "global_south_view": "The opinion vindicates workers' collective rights against decades of employer-state resistance and shows how interpretive hierarchies can be tilted toward social and economic justice rather than market liberalisation. From this perspective, the ruling is a counterweight to the privileging of investor and trade disciplines over labour rights, and the task is to ensure it is not diluted when labour commitments intersect with investment and trade regimes.",
+      "convergence_score": 4,
+      "convergence_note": "Both camps broadly welcome the recognition of the right to strike and the integrative method, with differences mainly over how far the ruling should reshape the balance between economic and social obligations.",
+      "mainstream_sources": [
+        {
+          "title": "International Labor Organization (ILO): Right to Strike - American Review of International Arbitration",
+          "url": "https://aria.law.columbia.edu/international-labor-organization-ilo-right-to-strike"
+        },
+        {
+          "title": "Treaty Interpretation in the ICJ's Opinion on the Right to Strike - EJIL: Talk!",
+          "url": "https://www.ejiltalk.org/treaty-interpretation-in-the-icjs-opinion-on-the-right-to-strike"
+        },
+        {
+          "title": "ICJ Advisory Opinion on the Right to Strike Under ILO Convention 87: Reflections on Systemic Integration - Opinio Juris",
+          "url": "http://opiniojuris.org/2026/10/15/icj-advisory-opinion-on-the-right-to-strike-under-ilo-convention-87-reflections-on-systemic-integration-from-the-perspective-of-international-human-rights-law/"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "Right to Strike under ILO Convention No. 87 - International Court of Justice",
+          "url": "https://www.icj-cij.org/case/191"
+        },
+        {
+          "title": "Interpretation of Convention No. 87 with respect to the right to strike - ILO",
+          "url": "https://www.ilo.org/topics-and-sectors/freedom-association/interpretation-convention-no-87-respect-right-strike"
+        },
+        {
+          "title": "Collective Bargaining in International Economic Law - Columbia Center on Sustainable Investment",
+          "url": "https://ccsi.columbia.edu/collective-bargaining-in-international-economic-law-critical-minerals-regional-integration-and-value-addition"
+        }
+      ]
+    },
+    {
+      "title": "Succession of State Responsibility and Continuity of International Obligations",
+      "framing": "The ILC has been working on succession of states in respect of state responsibility since 2016, addressing whether successor states inherit responsibility for a predecessor's internationally wrongful acts. The topic remains doctrinally unsettled, with the clean-slate rule for treaties not clearly transferable to responsibility, and with investment-treaty succession raising distinct questions.",
+      "mainstream_view": "The field is best advanced through careful codification and case-by-case analysis, since general rules are difficult to derive and the clean-slate paradigm cannot simply be transplanted from treaty succession to responsibility. The ILC process, informed by practice in dissolution, unification, and territorial change, is the appropriate venue for building a stable and predictable framework that protects the interests of injured parties and the coherence of the international legal order.",
+      "global_south_view": "Succession questions are deeply implicated in decolonisation and the legacies of empire, and a voluntaristic clean-slate approach can allow successor states to be burdened with obligations they never consented to, or conversely to escape responsibility for historical wrongs. From this perspective, the analysis must be attentive to colonial context, to the asymmetry between powerful and weak states in negotiating succession, and to the interests of affected populations rather than only inter-state continuity.",
+      "convergence_score": 3,
+      "convergence_note": "Both sides agree the law is unsettled and requires contextual analysis, but they differ on whether the priority is predictable codification or reckoning with the colonial genealogy of succession rules.",
+      "mainstream_sources": [
+        {
+          "title": "Succession of States in respect of State responsibility - International Law Commission",
+          "url": "https://legal.un.org/ilc/summaries/3_5.shtml"
+        },
+        {
+          "title": "State Succession in Matters Other than Treaties - Oxford Public International Law",
+          "url": "https://opil.ouplaw.com/display/10.1093/law:epil/9780199231690/law-9780199231690-e1108"
+        },
+        {
+          "title": "State Responsibility in International Law - Diplomacy and Law",
+          "url": "https://www.diplomacyandlaw.com/post/state-responsibility-in-international-law"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "The Tricky Question of State Succession to International Responsibility - EJIL: Talk!",
+          "url": "https://www.ejiltalk.org/the-tricky-question-of-state-succession-to-international-responsibility"
+        },
+        {
+          "title": "State Succession in International Investment Law - Yarik Kryvoi",
+          "url": "https://kryvoi.net/pdf/State-Succession-in-International-Investment-Law.pdf"
+        },
+        {
+          "title": "State Succession: Continuity vs. Clean Slate",
+          "url": "https://www.scribd.com/document/899835864/State-Succession-Old"
+        }
+      ]
+    },
+    {
+      "title": "Global South Perspectives on Financial Architecture, Debt, and Reform (South Centre/G-24)",
+      "framing": "The South Centre has issued statements to the G-24 and on international tax cooperation in October 2026, pressing for reform of the international financial architecture amid widespread debt distress in developing countries. Debates centre on IMF and multilateral development bank governance, voting power, and a multilateral framework for tax cooperation and dispute resolution.",
+      "mainstream_view": "Reform of the global financial architecture is necessary and urgent, given debt distress and the financing gap for the SDGs and climate goals, and should proceed through incremental institutional improvements \u2014 better debt-restructuring mechanisms, expanded fiscal space, and more inclusive governance \u2014 coordinated among the IMF, MDBs, and the UN. The emphasis is on pragmatic, consensus-based change that preserves the stability of the existing system.",
+      "global_south_view": "The financial architecture is structurally skewed against developing countries, whose limited voting power in the Bretton Woods institutions constrains their access to resources and their voice in decision-making. From this perspective, reform must shift governance and quota arrangements, establish fair allocation of taxing rights with capacity-sensitive flexibility, and create effective multilateral mechanisms for tax-dispute resolution rather than relying on the goodwill of creditors.",
+      "convergence_score": 3,
+      "convergence_note": "There is broad agreement that the system is failing developing countries and needs reform, but the two camps differ on whether incremental institutional adjustment or a redistribution of decision-making power is the core remedy.",
+      "mainstream_sources": [
+        {
+          "title": "Reforms for a 21st century global financial architecture - Brookings",
+          "url": "https://www.brookings.edu/articles/reforms-for-a-21st-century-global-financial-architecture"
+        },
+        {
+          "title": "Addressing the Debt Crisis in the Global South - Initiative for Policy Dialogue",
+          "url": "https://ipdcolumbia.org/event/addressing-the-debt-crisis-in-the-global-south"
+        },
+        {
+          "title": "The International Architecture for Resolving Sovereign Debt Involving Private-Sector Creditors - IMF",
+          "url": "https://www.elibrary.imf.org/view/journals/007/2020/043/article-A001-en.xml"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "SC Statement to G-24, 13 October 2026 - South Centre",
+          "url": "https://www.southcentre.int/sc-statement-to-g-24-13-october-2026/"
+        },
+        {
+          "title": "International Tax Cooperation - South Centre",
+          "url": "https://www.southcentre.int/category/issues/global-economic-and-development-policies/international-tax-cooperation"
+        },
+        {
+          "title": "Reform of the global financial architecture: the struggle between the Global North and Global South - CIDOB",
+          "url": "https://www.cidob.org/en/publications/reform-global-financial-architecture-struggle-between-global-north-and-global-south"
+        }
+      ]
+    }
+  ]
+}
