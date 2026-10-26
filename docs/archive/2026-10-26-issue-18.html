@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Fault Line — Issue 18</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #EDE8DC;
+    --ink: #1B1B16;
+    --ink-soft: #4A4640;
+    --rule: #C9C1AE;
+    --mainstream: #2E3A59;
+    --mainstream-soft: #DDE2EC;
+    --globalsouth: #9C5328;
+    --globalsouth-soft: #F1DFCC;
+    --gauge-empty: #D9D2C0;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'IBM Plex Sans', sans-serif;
+    line-height: 1.55;
+  }
+
+  .wrap {
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+
+  header.masthead {
+    border-bottom: 3px solid var(--ink);
+    padding-bottom: 18px;
+    margin-bottom: 36px;
+  }
+
+  .masthead-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .masthead-title {
+    font-family: 'Source Serif 4', serif;
+    font-weight: 700;
+    font-size: 42px;
+    letter-spacing: -0.01em;
+    margin: 0;
+  }
+
+  .masthead-meta {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+    color: var(--ink-soft);
+    text-align: right;
+    white-space: nowrap;
+  }
+
+  .masthead-sub {
+    font-size: 14px;
+    color: var(--ink-soft);
+    margin-top: 6px;
+    max-width: 640px;
+  }
+
+  .legend {
+    display: flex;
+    gap: 24px;
+    margin: 24px 0 8px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .legend span { display: flex; align-items: center; gap: 8px; }
+  .swatch { width: 10px; height: 10px; display: inline-block; }
+
+  .topic {
+    margin-top: 56px;
+  }
+
+  .topic-head {
+    display: flex;
+    align-items: baseline;
+    gap: 14px;
+    margin-bottom: 10px;
+  }
+
+  .topic-no {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+    color: var(--ink-soft);
+    white-space: nowrap;
+  }
+
+  .topic-title {
+    font-family: 'Source Serif 4', serif;
+    font-weight: 600;
+    font-size: 26px;
+    margin: 0;
+  }
+
+  .framing {
+    color: var(--ink-soft);
+    font-size: 15px;
+    max-width: 760px;
+    margin-bottom: 22px;
+  }
+
+  .split {
+    display: grid;
+    grid-template-columns: 1fr 2px 1fr;
+    gap: 0;
+    border-top: 1px solid var(--rule);
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .col {
+    padding: 22px 24px;
+  }
+
+  .col.mainstream { background: var(--mainstream-soft); }
+  .col.globalsouth { background: var(--globalsouth-soft); }
+
+  .fault-line {
+    background: repeating-linear-gradient(
+      to bottom,
+      var(--ink) 0px, var(--ink) 6px, transparent 6px, transparent 12px
+    );
+  }
+
+  .col-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    margin-bottom: 10px;
+    display: block;
+  }
+  .col.mainstream .col-label { color: var(--mainstream); }
+  .col.globalsouth .col-label { color: var(--globalsouth); }
+
+  .col p {
+    font-size: 14.5px;
+    margin: 0 0 12px;
+  }
+
+  .sources {
+    margin-top: 14px;
+    padding-top: 10px;
+    border-top: 1px solid rgba(0,0,0,0.12);
+  }
+  .sources-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--ink-soft);
+    display: block;
+    margin-bottom: 6px;
+  }
+  .sources ul {
+    margin: 0;
+    padding-left: 18px;
+    font-size: 12.5px;
+  }
+  .sources li { margin-bottom: 4px; }
+  .sources a { color: inherit; text-decoration: none; border-bottom: 1px dotted var(--ink-soft); }
+  .sources a:hover { border-bottom-style: solid; }
+
+  .gauge-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 14px 8px;
+    font-family: 'IBM Plex Mono', monospace;
+  }
+
+  .gauge-label {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--ink-soft);
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+  }
+
+  .gauge-segments {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .gauge-seg {
+    width: 18px;
+    height: 6px;
+    background: var(--gauge-empty);
+  }
+  .gauge-seg.filled {
+    background: linear-gradient(90deg, var(--globalsouth), var(--mainstream));
+  }
+
+  .convergence-note {
+    text-align: center;
+    font-size: 11px;
+    color: var(--ink-soft);
+    max-width: 110px;
+    margin: 6px auto 0;
+  }
+
+  footer {
+    margin-top: 64px;
+    padding-top: 18px;
+    border-top: 1px solid var(--rule);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11.5px;
+    color: var(--ink-soft);
+  }
+
+  @media (max-width: 720px) {
+    .split { grid-template-columns: 1fr; }
+    .fault-line { display: none; }
+    .masthead-title { font-size: 32px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="masthead">
+    <div class="masthead-row">
+      <h1 class="masthead-title">The Fault Line</h1>
+      <div class="masthead-meta">ISSUE NO. 18<br>2026-10-26</div>
+    </div>
+    <p class="masthead-sub">A standing comparison of mainstream/Western-institutionalist and Global South / TWAIL readings of current international economic &amp; investment law developments.</p>
+    <div class="legend">
+      <span><span class="swatch" style="background:var(--mainstream)"></span>Mainstream / Institutionalist</span>
+      <span><span class="swatch" style="background:var(--globalsouth)"></span>Global South / TWAIL</span>
+    </div>
+  </header>
+
+  
+<section class="topic">
+  <div class="topic-head">
+    <span class="topic-no">01</span>
+    <h2 class="topic-title">Decolonizing Investment Arbitration: Sacred Sites, Indigenous Rights, and the TWAIL Critique of ISDS</h2>
+  </div>
+  <p class="framing">Investor-state dispute settlement (ISDS) tribunals increasingly hear disputes whose outcomes affect Indigenous peoples&#x27; lands, cultural heritage, and sacred sites, yet affected communities are not parties to the proceedings. Scholarship and civil-society commentary debate whether arbitrators can and should apply Indigenous rights norms such as UNDRIP through treaty interpretation, amicus participation, and human rights expertise, or whether the system is structurally incapable of doing so. A recent Critical Legal Thinking contribution frames the issue as one of decolonizing investment arbitration.</p>
+
+  <div class="split">
+    <div class="col mainstream">
+      <span class="col-label">Mainstream / Institutionalist</span>
+      <p>Investment law already contains the interpretive tools to reconcile investor protection with Indigenous rights: under Article 31(3)(c) of the Vienna Convention on the Law of Treaties, tribunals can read investment treaties in light of a state&#x27;s other international obligations, including UNDRIP, and arbitral practice shows growing receptiveness to non-economic values and to amicus briefs from affected communities. On this view the task is incremental doctrinal refinement and arbitrator expertise rather than systemic replacement, and early consultation and consent processes can be built into contracts and project design to protect both investors and Indigenous peoples.</p>
+      <div class="sources"><span class="sources-label">Sources</span><ul><li><a href="https://valentinavadi.net/wp-content/uploads/2018/10/vadi-heritage-power-and-destiny.pdf" target="_blank" rel="noopener">Heritage, Power, and Destiny: The Protection of Indigenous Cultural Heritage in International Investment Law and Arbitration (Vadi)</a></li><li><a href="https://romatrepress.uniroma3.it/wp-content/uploads/2020/02/The-Protection-of-Indigenous-Cultural-Heritage-in-International-Investment-Law-and-Arbitration.pdf" target="_blank" rel="noopener">The Protection of Indigenous Cultural Heritage in International Investment Law and Arbitration (Roma Tre Press)</a></li><li><a href="https://www.law.georgetown.edu/international-law-journal/wp-content/uploads/sites/21/2024/09/GT-GJIL240031.pdf" target="_blank" rel="noopener">Local Communities and International Investment Law (Georgetown Journal of International Law)</a></li></ul></div>
+    </div>
+
+    <div class="fault-line"></div>
+
+    <div class="col globalsouth">
+      <span class="col-label">Global South / TWAIL</span>
+      <p>ISDS is a colonial-era structure in which foreign investors hold direct standing while affected Indigenous communities do not, and tribunals have at times declared human rights law irrelevant to disputes that plainly implicate those rights. From this perspective, doctrinal workarounds such as VCLT interpretation and amicus participation are marginal fixes that leave the asymmetry of access and the arbitrators&#x27; lack of human rights expertise intact; genuine remedy requires decolonizing the regime itself, centering free, prior and informed consent and Indigenous self-determination over investor protection.</p>
+      <div class="sources"><span class="sources-label">Sources</span><ul><li><a href="https://criticallegalthinking.com/2026/10/23/law-critique-when-sacred-mountains-meet-investment-arbitrators-decolonizing-investment-arbitration/" target="_blank" rel="noopener">Law &amp; Critique: When Sacred Mountains Meet Investment Arbitrators: Decolonizing Investment Arbitration (Critical Legal Thinking)</a></li><li><a href="https://www.ecchr.eu/fileadmin/Kommentare_Konferenzberichte_Weiteres/Kommentar_ICSID_tribunal_-_Human_Rights_Inapplicable.pdf" target="_blank" rel="noopener">Human Rights Inapplicable in International Investment Arbitration? (ECCHR commentary on ICSID tribunal)</a></li><li><a href="https://un.arizona.edu/search-database/impact-international-investment-and-free-trade-human-rights-indigenous-peoples" target="_blank" rel="noopener">Impact of international investment and free trade on the human rights of indigenous peoples (UN Special Rapporteur on the rights of indigenous peoples)</a></li></ul></div>
+    </div>
+  </div>
+
+  <div class="gauge-row">
+    <span class="gauge-label">CONVERGENCE</span>
+    <div class="gauge-segments"><span class="gauge-seg filled"></span><span class="gauge-seg filled"></span><span class="gauge-seg"></span><span class="gauge-seg"></span><span class="gauge-seg"></span></div>
+    <span class="convergence-note">Both sides accept that Indigenous rights are engaged by ISDS and that UNDRIP is relevant, but they diverge sharply on whether the existing arbitral framework can be reformed from within or must be structurally reordered.</span>
+  </div>
+</section>
+
+
+<section class="topic">
+  <div class="topic-head">
+    <span class="topic-no">02</span>
+    <h2 class="topic-title">Militarization of Outer Space and International Law: US On-Orbit Space Control Weapons</h2>
+  </div>
+  <p class="framing">The US Air Force Secretary has disclosed that Space Force has &#x27;space control weapons&#x27; on orbit, without specifying whether they are kinetic or non-kinetic. The 1967 Outer Space Treaty bans nuclear weapons and other weapons of mass destruction in orbit and demilitarizes celestial bodies, but does not expressly prohibit conventional weapons in Earth orbit, so the legality of the disclosed systems turns on the UN Charter&#x27;s rules on the threat or use of force and self-defence.</p>
+
+  <div class="split">
+    <div class="col mainstream">
+      <span class="col-label">Mainstream / Institutionalist</span>
+      <p>The legal position is relatively clear: international law does not generally prohibit placing conventional weapons in orbit, and doing so does not by itself constitute an unlawful threat of force. Article III of the Outer Space Treaty incorporates the UN Charter, so Article 2(4) and Article 51 apply in space, and any actual use of force must satisfy necessity and proportionality; the appropriate response is therefore transparency, norms-building, and arms-control dialogue rather than claims of illegality.</p>
+      <div class="sources"><span class="sources-label">Sources</span><ul><li><a href="https://opiniojuris.org/2026/10/26/what-the-us-acknowledgment-of-its-on-orbit-space-control-weapons-means-under-international-law/" target="_blank" rel="noopener">What the US Acknowledgment of its &#x27;On-Orbit Space Control Weapons&#x27; Means Under International Law (Opinio Juris)</a></li><li><a href="https://www.swfound.org/publications-and-reports/us-has-on-orbit-space-control-weapons" target="_blank" rel="noopener">Secure World Foundation: US has on-orbit space control weapons</a></li><li><a href="https://www.justsecurity.org/158436/expert-backgrounder-weapons-space-international-law" target="_blank" rel="noopener">Expert Backgrounder: Weapons in Space Under International Law (Just Security)</a></li></ul></div>
+    </div>
+
+    <div class="fault-line"></div>
+
+    <div class="col globalsouth">
+      <span class="col-label">Global South / TWAIL</span>
+      <p>The material provided does not contain a distinct Global South or TWAIL framing of this specific disclosure, so no opposed position can be reconstructed from it without speculation.</p>
+      
+    </div>
+  </div>
+
+  <div class="gauge-row">
+    <span class="gauge-label">CONVERGENCE</span>
+    <div class="gauge-segments"><span class="gauge-seg filled"></span><span class="gauge-seg filled"></span><span class="gauge-seg filled"></span><span class="gauge-seg filled"></span><span class="gauge-seg"></span></div>
+    <span class="convergence-note">The available sources converge on the same legal analysis, and the material does not supply a genuine mainstream/Global South fault line on this topic.</span>
+  </div>
+</section>
+
+
+<section class="topic">
+  <div class="topic-head">
+    <span class="topic-no">03</span>
+    <h2 class="topic-title">AI, Deepfakes, and Information Warfare: Legal Accountability in Armed Conflict and Beyond</h2>
+  </div>
+  <p class="framing">Deepfakes and AI-generated disinformation are increasingly used in and around armed conflict, and commentators debate whether existing international humanitarian law, human rights law, and sovereignty rules adequately regulate them. IHL contains fallback prohibitions (such as perfidy and spreading terror among civilians), while cross-border disinformation exposes gaps in the law of state responsibility and in multilateral cyber diplomacy.</p>
+
+  <div class="split">
+    <div class="col mainstream">
+      <span class="col-label">Mainstream / Institutionalist</span>
+      <p>Existing law is more capable than it first appears: IHL rules on perfidy, terror, and precautions, complemented by international human rights law that continues to apply in armed conflict, already capture many deepfake uses, and the ICRC and ICC-adjacent policy work are progressively clarifying how. The priority is doctrinal interpretation and practical safeguards such as watermarking, authentication, and platform filtering rather than new treaty regimes.</p>
+      <div class="sources"><span class="sources-label">Sources</span><ul><li><a href="https://opiniojuris.org/2026/10/20/civilian-protection-in-the-age-of-deepfakes" target="_blank" rel="noopener">Civilian Protection in the Age of Deepfakes (Opinio Juris)</a></li><li><a href="https://www.icrc.org/sites/default/files/media_file/2024-10/4810_002_CH%205.pdf" target="_blank" rel="noopener">ICRC: International humanitarian law and the challenges of contemporary armed conflicts</a></li><li><a href="https://lieber.westpoint.edu/deepfakes" target="_blank" rel="noopener">&#x27;Deepfakes&#x27; and the Law of Armed Conflict: Are They Legal? (Lieber Institute, West Point)</a></li></ul></div>
+    </div>
+
+    <div class="fault-line"></div>
+
+    <div class="col globalsouth">
+      <span class="col-label">Global South / TWAIL</span>
+      <p>The material provided does not contain a distinct Global South or TWAIL framing of deepfakes and information warfare, so no opposed position can be reconstructed from it without speculation.</p>
+      
+    </div>
+  </div>
+
+  <div class="gauge-row">
+    <span class="gauge-label">CONVERGENCE</span>
+    <div class="gauge-segments"><span class="gauge-seg filled"></span><span class="gauge-seg filled"></span><span class="gauge-seg filled"></span><span class="gauge-seg filled"></span><span class="gauge-seg"></span></div>
+    <span class="convergence-note">The sources largely share a gap-filling, interpretivist approach, and the material does not supply a clear mainstream/Global South divide on this topic.</span>
+  </div>
+</section>
+
+
+<section class="topic">
+  <div class="topic-head">
+    <span class="topic-no">04</span>
+    <h2 class="topic-title">Ecocide, Environmental Harm, and the Ukraine Conflict: Codification and Accountability Gaps</h2>
+  </div>
+  <p class="framing">Ukraine&#x27;s Criminal Code has criminalized ecocide since 2001, and the environmental devastation of the war with Russia has renewed attention to how international law can hold perpetrators accountable. The ICC&#x27;s 2025 policy on environmental damage clarifies how such harm can be charged as a war crime, while Vanuatu, Fiji, and Samoa have proposed adding ecocide as a fifth crime under the Rome Statute.</p>
+
+  <div class="split">
+    <div class="col mainstream">
+      <span class="col-label">Mainstream / Institutionalist</span>
+      <p>Accountability can be advanced substantially within the existing Rome Statute framework: the ICC&#x27;s environmental policy shows how environmental harm can be prosecuted as a war crime, and progressive interpretation of provisions such as Article 8(2)(b)(iv) can reach wartime destruction. Codifying a standalone ecocide crime is a valuable longer-term project, but the immediate priority is making existing war crimes law work, including through clearer standards and evidentiary guidance.</p>
+      <div class="sources"><span class="sources-label">Sources</span><ul><li><a href="https://www.icc-cpi.int/sites/default/files/2025-12/2025-env-eng.pdf" target="_blank" rel="noopener">Policy on Addressing Environmental Damage Through the Rome Statute (ICC)</a></li><li><a href="https://ceobs.org/has-the-icc-just-advanced-accountability-for-wartime-environmental-damage" target="_blank" rel="noopener">Has the ICC just advanced accountability for wartime environmental damage? (CEOBS)</a></li><li><a href="https://blogs.icrc.org/law-and-policy/2025/03/20/environmental-destruction-in-conflict-broadening-accountability-in-war" target="_blank" rel="noopener">Environmental destruction in conflict: broadening accountability in war (ICRC Law &amp; Policy Blog)</a></li></ul></div>
+    </div>
+
+    <div class="fault-line"></div>
+
+    <div class="col globalsouth">
+      <span class="col-label">Global South / TWAIL</span>
+      <p>The Rome Statute&#x27;s environmental provision is structurally weak: it applies only in international armed conflicts and demands proof of knowledge of &#x27;widespread, long-term and severe&#x27; damage, leaving major gaps. The Pacific island states&#x27; proposal for a standalone ecocide crime, and broader accountability reaching corporate pollution and deforestation outside armed conflict, reflects the view that environmental harm must be criminalized as such rather than squeezed into war crimes categories designed for other purposes.</p>
+      <div class="sources"><span class="sources-label">Sources</span><ul><li><a href="https://blogs.icrc.org/law-and-policy/2025/03/20/environmental-destruction-in-conflict-broadening-accountability-in-war" target="_blank" rel="noopener">Environmental destruction in conflict: broadening accountability in war (ICRC Law &amp; Policy Blog, on the Vanuatu/Fiji/Samoa ecocide proposal)</a></li><li><a href="https://earth.org/explainer-what-is-ecocide-and-how-is-it-treated-in-international-and-domestic-law" target="_blank" rel="noopener">What Is Ecocide and How Is It Treated in International Law? (Earth.org)</a></li><li><a href="https://www.redalyc.org/journal/8005/800585979014/html" target="_blank" rel="noopener">Analysis of criminal law on ecocide: A case study of war in Ukraine (Redalyc)</a></li></ul></div>
+    </div>
+  </div>
+
+  <div class="gauge-row">
+    <span class="gauge-label">CONVERGENCE</span>
+    <div class="gauge-segments"><span class="gauge-seg filled"></span><span class="gauge-seg filled"></span><span class="gauge-seg filled"></span><span class="gauge-seg"></span><span class="gauge-seg"></span></div>
+    <span class="convergence-note">Both camps support stronger accountability for wartime environmental destruction and treat the ICC policy as progress, but they differ on whether incremental war-crimes interpretation suffices or a new standalone ecocide crime is required.</span>
+  </div>
+</section>
+
+
+<section class="topic">
+  <div class="topic-head">
+    <span class="topic-no">05</span>
+    <h2 class="topic-title">Shame, Stigma, and Sanctions in Migration, Social Security, and Refugee Law</h2>
+  </div>
+  <p class="framing">A wave of scholarship examines how shame operates as a legal technology: it deters protection seekers from applying or disclosing persecution grounds, is used as an indicator in refugee status determination, and drives non-take-up of social security benefits. At the same time, EU ministers have advanced proposals for detention, sanctions, and rights-stripping based on migration status, and monetary sanctions pervade &#x27;crimmigration&#x27; systems.</p>
+
+  <div class="split">
+    <div class="col mainstream">
+      <span class="col-label">Mainstream / Institutionalist</span>
+      <p>Shame and stigma are recognized as barriers to rights enjoyment, and human rights law—including the right to social security and the principle of dignity—obliges states to design benefit and asylum systems that treat claimants with respect and do not deter legitimate claims. The remedy is procedural and administrative: dignity-based service design, better status-determination guidance, and rights-compliant enforcement that preserves individual review.</p>
+      <div class="sources"><span class="sources-label">Sources</span><ul><li><a href="https://www.equalityhumanrights.com/sites/default/files/social_security_systems_based_on_dignity_and_respect.pdf" target="_blank" rel="noopener">Social security systems based on dignity and respect (Equality and Human Rights Commission)</a></li><li><a href="https://www.ilo.org/sites/default/files/2025-02/OHCHR-ILO%20Fact%20Sheet%20Right%20to%20Social%20Security%20web.pdf" target="_blank" rel="noopener">Right to Social Security (OHCHR/ILO Fact Sheet No. 39)</a></li><li><a href="https://verfassungsblog.de/shame-migration-law" target="_blank" rel="noopener">Shame and Shamelessness in Migration and Refugee Law (Verfassungsblog)</a></li></ul></div>
+    </div>
+
+    <div class="fault-line"></div>
+
+    <div class="col globalsouth">
+      <span class="col-label">Global South / TWAIL</span>
+      <p>Shame is not an incidental byproduct but a deliberate instrument of border and welfare governance: sanctions, detention, and conditionality are deployed to make claiming rights costly and to signal exclusion, producing &#x27;legal violence&#x27; against migrants and claimants. On this view, dignity-based reform within existing structures cannot cure a system whose purpose is deterrence and stratification, and the critique extends to the EU&#x27;s proposed Return Regulation and to criminalization regimes that strip protections.</p>
+      <div class="sources"><span class="sources-label">Sources</span><ul><li><a href="https://www.amnesty.org/en/latest/news/2025/12/unprecedented-detention-and-deportation" target="_blank" rel="noopener">EU: Ministers propose unprecedented detention, sanctions, and stripping of rights based on migration status (Amnesty International)</a></li><li><a href="https://www.rsfjournal.org/content/8/2/76" target="_blank" rel="noopener">Punishing Immigrants: The Consequences of Monetary Sanctions in the Crimmigration System (RSF Journal)</a></li><li><a href="https://www.hrw.org/news/2023/12/19/reclaiming-right-social-security" target="_blank" rel="noopener">(Re)claiming the Right to Social Security (Human Rights Watch)</a></li></ul></div>
+    </div>
+  </div>
+
+  <div class="gauge-row">
+    <span class="gauge-label">CONVERGENCE</span>
+    <div class="gauge-segments"><span class="gauge-seg filled"></span><span class="gauge-seg filled"></span><span class="gauge-seg"></span><span class="gauge-seg"></span><span class="gauge-seg"></span></div>
+    <span class="convergence-note">Both sides agree that shame and stigma impede access to protection and social security, but they disagree on whether this is a design flaw correctable through dignity-based administration or a constitutive feature of exclusionary migration and welfare law.</span>
+  </div>
+</section>
+
+
+<section class="topic">
+  <div class="topic-head">
+    <span class="topic-no">06</span>
+    <h2 class="topic-title">Democratic Backsliding and Militant Democracy: Party Bans, Extremism Clauses, and Institutional Capture</h2>
+  </div>
+  <p class="framing">Germany is debating whether to pursue a party ban against the AfD, now classified as a suspected extremist party and leading in polls, while courts have both upheld and temporarily restrained intelligence-service classifications. Parallel debates concern extremism clauses in federal-state fiscal transfers and incumbency-advantage rules in Brazil, all raising the question of how law should defend democracy without being captured for partisan ends.</p>
+
+  <div class="split">
+    <div class="col mainstream">
+      <span class="col-label">Mainstream / Institutionalist</span>
+      <p>Militant democracy is a legitimate constitutional response to parties that seek to dismantle the free democratic order, and instruments such as party bans, intelligence classification, and campaign-finance and incumbency rules are lawful when applied through courts and independent review. The emphasis is on procedural rigor, evidentiary thresholds, and judicial supervision so that defensive measures remain rule-of-law-compliant and survive scrutiny under instruments like the ECHR.</p>
+      <div class="sources"><span class="sources-label">Sources</span><ul><li><a href="https://americangerman.institute/2026/07/militant-democracy" target="_blank" rel="noopener">Militant Democracy (American-German Institute)</a></li><li><a href="https://www.iconnectblog.com/the-double-edged-sword-of-militant-democracy-party-bans-and-the-risk-of-political-instrumentalization" target="_blank" rel="noopener">The Double-Edged Sword of Militant Democracy: Party Bans and the Risk of Political Instrumentalization (I-CONnect Blog)</a></li><li><a href="https://verfassungsblog.de/only-a-vigilant-democracy-can-be-a-resilient-democracy" target="_blank" rel="noopener">&#x27;Only a Vigilant Democracy Can Be a Resilient Democracy&#x27; (Verfassungsblog)</a></li></ul></div>
+    </div>
+
+    <div class="fault-line"></div>
+
+    <div class="col globalsouth">
+      <span class="col-label">Global South / TWAIL</span>
+      <p>The material provided does not contain a distinct Global South or TWAIL framing of German party bans and militant democracy, so no opposed position can be reconstructed from it without speculation; the critical literature supplied (e.g., the German Law Journal critique) argues within European constitutionalism rather than from a Global South perspective.</p>
+      
+    </div>
+  </div>
+
+  <div class="gauge-row">
+    <span class="gauge-label">CONVERGENCE</span>
+    <div class="gauge-segments"><span class="gauge-seg filled"></span><span class="gauge-seg filled"></span><span class="gauge-seg filled"></span><span class="gauge-seg filled"></span><span class="gauge-seg"></span></div>
+    <span class="convergence-note">The sources debate the wisdom and design of militant democracy but share a constitutionalist frame, and the material does not supply a genuine mainstream/Global South fault line on this topic.</span>
+  </div>
+</section>
+
+
+  <footer>
+    Generated automatically — verify all sources before citing. Convergence score: 1 = sharply opposed, 5 = largely converging.
+  </footer>
+
+</div>
+</body>
+</html>

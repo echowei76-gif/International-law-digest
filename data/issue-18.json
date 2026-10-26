@@ -1,0 +1,181 @@
+{
+  "topics": [
+    {
+      "title": "Decolonizing Investment Arbitration: Sacred Sites, Indigenous Rights, and the TWAIL Critique of ISDS",
+      "framing": "Investor-state dispute settlement (ISDS) tribunals increasingly hear disputes whose outcomes affect Indigenous peoples' lands, cultural heritage, and sacred sites, yet affected communities are not parties to the proceedings. Scholarship and civil-society commentary debate whether arbitrators can and should apply Indigenous rights norms such as UNDRIP through treaty interpretation, amicus participation, and human rights expertise, or whether the system is structurally incapable of doing so. A recent Critical Legal Thinking contribution frames the issue as one of decolonizing investment arbitration.",
+      "mainstream_view": "Investment law already contains the interpretive tools to reconcile investor protection with Indigenous rights: under Article 31(3)(c) of the Vienna Convention on the Law of Treaties, tribunals can read investment treaties in light of a state's other international obligations, including UNDRIP, and arbitral practice shows growing receptiveness to non-economic values and to amicus briefs from affected communities. On this view the task is incremental doctrinal refinement and arbitrator expertise rather than systemic replacement, and early consultation and consent processes can be built into contracts and project design to protect both investors and Indigenous peoples.",
+      "global_south_view": "ISDS is a colonial-era structure in which foreign investors hold direct standing while affected Indigenous communities do not, and tribunals have at times declared human rights law irrelevant to disputes that plainly implicate those rights. From this perspective, doctrinal workarounds such as VCLT interpretation and amicus participation are marginal fixes that leave the asymmetry of access and the arbitrators' lack of human rights expertise intact; genuine remedy requires decolonizing the regime itself, centering free, prior and informed consent and Indigenous self-determination over investor protection.",
+      "convergence_score": 2,
+      "convergence_note": "Both sides accept that Indigenous rights are engaged by ISDS and that UNDRIP is relevant, but they diverge sharply on whether the existing arbitral framework can be reformed from within or must be structurally reordered.",
+      "mainstream_sources": [
+        {
+          "title": "Heritage, Power, and Destiny: The Protection of Indigenous Cultural Heritage in International Investment Law and Arbitration (Vadi)",
+          "url": "https://valentinavadi.net/wp-content/uploads/2018/10/vadi-heritage-power-and-destiny.pdf"
+        },
+        {
+          "title": "The Protection of Indigenous Cultural Heritage in International Investment Law and Arbitration (Roma Tre Press)",
+          "url": "https://romatrepress.uniroma3.it/wp-content/uploads/2020/02/The-Protection-of-Indigenous-Cultural-Heritage-in-International-Investment-Law-and-Arbitration.pdf"
+        },
+        {
+          "title": "Local Communities and International Investment Law (Georgetown Journal of International Law)",
+          "url": "https://www.law.georgetown.edu/international-law-journal/wp-content/uploads/sites/21/2024/09/GT-GJIL240031.pdf"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "Law & Critique: When Sacred Mountains Meet Investment Arbitrators: Decolonizing Investment Arbitration (Critical Legal Thinking)",
+          "url": "https://criticallegalthinking.com/2026/10/23/law-critique-when-sacred-mountains-meet-investment-arbitrators-decolonizing-investment-arbitration/"
+        },
+        {
+          "title": "Human Rights Inapplicable in International Investment Arbitration? (ECCHR commentary on ICSID tribunal)",
+          "url": "https://www.ecchr.eu/fileadmin/Kommentare_Konferenzberichte_Weiteres/Kommentar_ICSID_tribunal_-_Human_Rights_Inapplicable.pdf"
+        },
+        {
+          "title": "Impact of international investment and free trade on the human rights of indigenous peoples (UN Special Rapporteur on the rights of indigenous peoples)",
+          "url": "https://un.arizona.edu/search-database/impact-international-investment-and-free-trade-human-rights-indigenous-peoples"
+        }
+      ]
+    },
+    {
+      "title": "Militarization of Outer Space and International Law: US On-Orbit Space Control Weapons",
+      "framing": "The US Air Force Secretary has disclosed that Space Force has 'space control weapons' on orbit, without specifying whether they are kinetic or non-kinetic. The 1967 Outer Space Treaty bans nuclear weapons and other weapons of mass destruction in orbit and demilitarizes celestial bodies, but does not expressly prohibit conventional weapons in Earth orbit, so the legality of the disclosed systems turns on the UN Charter's rules on the threat or use of force and self-defence.",
+      "mainstream_view": "The legal position is relatively clear: international law does not generally prohibit placing conventional weapons in orbit, and doing so does not by itself constitute an unlawful threat of force. Article III of the Outer Space Treaty incorporates the UN Charter, so Article 2(4) and Article 51 apply in space, and any actual use of force must satisfy necessity and proportionality; the appropriate response is therefore transparency, norms-building, and arms-control dialogue rather than claims of illegality.",
+      "global_south_view": "The material provided does not contain a distinct Global South or TWAIL framing of this specific disclosure, so no opposed position can be reconstructed from it without speculation.",
+      "convergence_score": 4,
+      "convergence_note": "The available sources converge on the same legal analysis, and the material does not supply a genuine mainstream/Global South fault line on this topic.",
+      "mainstream_sources": [
+        {
+          "title": "What the US Acknowledgment of its 'On-Orbit Space Control Weapons' Means Under International Law (Opinio Juris)",
+          "url": "https://opiniojuris.org/2026/10/26/what-the-us-acknowledgment-of-its-on-orbit-space-control-weapons-means-under-international-law/"
+        },
+        {
+          "title": "Secure World Foundation: US has on-orbit space control weapons",
+          "url": "https://www.swfound.org/publications-and-reports/us-has-on-orbit-space-control-weapons"
+        },
+        {
+          "title": "Expert Backgrounder: Weapons in Space Under International Law (Just Security)",
+          "url": "https://www.justsecurity.org/158436/expert-backgrounder-weapons-space-international-law"
+        }
+      ],
+      "global_south_sources": []
+    },
+    {
+      "title": "AI, Deepfakes, and Information Warfare: Legal Accountability in Armed Conflict and Beyond",
+      "framing": "Deepfakes and AI-generated disinformation are increasingly used in and around armed conflict, and commentators debate whether existing international humanitarian law, human rights law, and sovereignty rules adequately regulate them. IHL contains fallback prohibitions (such as perfidy and spreading terror among civilians), while cross-border disinformation exposes gaps in the law of state responsibility and in multilateral cyber diplomacy.",
+      "mainstream_view": "Existing law is more capable than it first appears: IHL rules on perfidy, terror, and precautions, complemented by international human rights law that continues to apply in armed conflict, already capture many deepfake uses, and the ICRC and ICC-adjacent policy work are progressively clarifying how. The priority is doctrinal interpretation and practical safeguards such as watermarking, authentication, and platform filtering rather than new treaty regimes.",
+      "global_south_view": "The material provided does not contain a distinct Global South or TWAIL framing of deepfakes and information warfare, so no opposed position can be reconstructed from it without speculation.",
+      "convergence_score": 4,
+      "convergence_note": "The sources largely share a gap-filling, interpretivist approach, and the material does not supply a clear mainstream/Global South divide on this topic.",
+      "mainstream_sources": [
+        {
+          "title": "Civilian Protection in the Age of Deepfakes (Opinio Juris)",
+          "url": "https://opiniojuris.org/2026/10/20/civilian-protection-in-the-age-of-deepfakes"
+        },
+        {
+          "title": "ICRC: International humanitarian law and the challenges of contemporary armed conflicts",
+          "url": "https://www.icrc.org/sites/default/files/media_file/2024-10/4810_002_CH%205.pdf"
+        },
+        {
+          "title": "'Deepfakes' and the Law of Armed Conflict: Are They Legal? (Lieber Institute, West Point)",
+          "url": "https://lieber.westpoint.edu/deepfakes"
+        }
+      ],
+      "global_south_sources": []
+    },
+    {
+      "title": "Ecocide, Environmental Harm, and the Ukraine Conflict: Codification and Accountability Gaps",
+      "framing": "Ukraine's Criminal Code has criminalized ecocide since 2001, and the environmental devastation of the war with Russia has renewed attention to how international law can hold perpetrators accountable. The ICC's 2025 policy on environmental damage clarifies how such harm can be charged as a war crime, while Vanuatu, Fiji, and Samoa have proposed adding ecocide as a fifth crime under the Rome Statute.",
+      "mainstream_view": "Accountability can be advanced substantially within the existing Rome Statute framework: the ICC's environmental policy shows how environmental harm can be prosecuted as a war crime, and progressive interpretation of provisions such as Article 8(2)(b)(iv) can reach wartime destruction. Codifying a standalone ecocide crime is a valuable longer-term project, but the immediate priority is making existing war crimes law work, including through clearer standards and evidentiary guidance.",
+      "global_south_view": "The Rome Statute's environmental provision is structurally weak: it applies only in international armed conflicts and demands proof of knowledge of 'widespread, long-term and severe' damage, leaving major gaps. The Pacific island states' proposal for a standalone ecocide crime, and broader accountability reaching corporate pollution and deforestation outside armed conflict, reflects the view that environmental harm must be criminalized as such rather than squeezed into war crimes categories designed for other purposes.",
+      "convergence_score": 3,
+      "convergence_note": "Both camps support stronger accountability for wartime environmental destruction and treat the ICC policy as progress, but they differ on whether incremental war-crimes interpretation suffices or a new standalone ecocide crime is required.",
+      "mainstream_sources": [
+        {
+          "title": "Policy on Addressing Environmental Damage Through the Rome Statute (ICC)",
+          "url": "https://www.icc-cpi.int/sites/default/files/2025-12/2025-env-eng.pdf"
+        },
+        {
+          "title": "Has the ICC just advanced accountability for wartime environmental damage? (CEOBS)",
+          "url": "https://ceobs.org/has-the-icc-just-advanced-accountability-for-wartime-environmental-damage"
+        },
+        {
+          "title": "Environmental destruction in conflict: broadening accountability in war (ICRC Law & Policy Blog)",
+          "url": "https://blogs.icrc.org/law-and-policy/2025/03/20/environmental-destruction-in-conflict-broadening-accountability-in-war"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "Environmental destruction in conflict: broadening accountability in war (ICRC Law & Policy Blog, on the Vanuatu/Fiji/Samoa ecocide proposal)",
+          "url": "https://blogs.icrc.org/law-and-policy/2025/03/20/environmental-destruction-in-conflict-broadening-accountability-in-war"
+        },
+        {
+          "title": "What Is Ecocide and How Is It Treated in International Law? (Earth.org)",
+          "url": "https://earth.org/explainer-what-is-ecocide-and-how-is-it-treated-in-international-and-domestic-law"
+        },
+        {
+          "title": "Analysis of criminal law on ecocide: A case study of war in Ukraine (Redalyc)",
+          "url": "https://www.redalyc.org/journal/8005/800585979014/html"
+        }
+      ]
+    },
+    {
+      "title": "Shame, Stigma, and Sanctions in Migration, Social Security, and Refugee Law",
+      "framing": "A wave of scholarship examines how shame operates as a legal technology: it deters protection seekers from applying or disclosing persecution grounds, is used as an indicator in refugee status determination, and drives non-take-up of social security benefits. At the same time, EU ministers have advanced proposals for detention, sanctions, and rights-stripping based on migration status, and monetary sanctions pervade 'crimmigration' systems.",
+      "mainstream_view": "Shame and stigma are recognized as barriers to rights enjoyment, and human rights law\u2014including the right to social security and the principle of dignity\u2014obliges states to design benefit and asylum systems that treat claimants with respect and do not deter legitimate claims. The remedy is procedural and administrative: dignity-based service design, better status-determination guidance, and rights-compliant enforcement that preserves individual review.",
+      "global_south_view": "Shame is not an incidental byproduct but a deliberate instrument of border and welfare governance: sanctions, detention, and conditionality are deployed to make claiming rights costly and to signal exclusion, producing 'legal violence' against migrants and claimants. On this view, dignity-based reform within existing structures cannot cure a system whose purpose is deterrence and stratification, and the critique extends to the EU's proposed Return Regulation and to criminalization regimes that strip protections.",
+      "convergence_score": 2,
+      "convergence_note": "Both sides agree that shame and stigma impede access to protection and social security, but they disagree on whether this is a design flaw correctable through dignity-based administration or a constitutive feature of exclusionary migration and welfare law.",
+      "mainstream_sources": [
+        {
+          "title": "Social security systems based on dignity and respect (Equality and Human Rights Commission)",
+          "url": "https://www.equalityhumanrights.com/sites/default/files/social_security_systems_based_on_dignity_and_respect.pdf"
+        },
+        {
+          "title": "Right to Social Security (OHCHR/ILO Fact Sheet No. 39)",
+          "url": "https://www.ilo.org/sites/default/files/2025-02/OHCHR-ILO%20Fact%20Sheet%20Right%20to%20Social%20Security%20web.pdf"
+        },
+        {
+          "title": "Shame and Shamelessness in Migration and Refugee Law (Verfassungsblog)",
+          "url": "https://verfassungsblog.de/shame-migration-law"
+        }
+      ],
+      "global_south_sources": [
+        {
+          "title": "EU: Ministers propose unprecedented detention, sanctions, and stripping of rights based on migration status (Amnesty International)",
+          "url": "https://www.amnesty.org/en/latest/news/2025/12/unprecedented-detention-and-deportation"
+        },
+        {
+          "title": "Punishing Immigrants: The Consequences of Monetary Sanctions in the Crimmigration System (RSF Journal)",
+          "url": "https://www.rsfjournal.org/content/8/2/76"
+        },
+        {
+          "title": "(Re)claiming the Right to Social Security (Human Rights Watch)",
+          "url": "https://www.hrw.org/news/2023/12/19/reclaiming-right-social-security"
+        }
+      ]
+    },
+    {
+      "title": "Democratic Backsliding and Militant Democracy: Party Bans, Extremism Clauses, and Institutional Capture",
+      "framing": "Germany is debating whether to pursue a party ban against the AfD, now classified as a suspected extremist party and leading in polls, while courts have both upheld and temporarily restrained intelligence-service classifications. Parallel debates concern extremism clauses in federal-state fiscal transfers and incumbency-advantage rules in Brazil, all raising the question of how law should defend democracy without being captured for partisan ends.",
+      "mainstream_view": "Militant democracy is a legitimate constitutional response to parties that seek to dismantle the free democratic order, and instruments such as party bans, intelligence classification, and campaign-finance and incumbency rules are lawful when applied through courts and independent review. The emphasis is on procedural rigor, evidentiary thresholds, and judicial supervision so that defensive measures remain rule-of-law-compliant and survive scrutiny under instruments like the ECHR.",
+      "global_south_view": "The material provided does not contain a distinct Global South or TWAIL framing of German party bans and militant democracy, so no opposed position can be reconstructed from it without speculation; the critical literature supplied (e.g., the German Law Journal critique) argues within European constitutionalism rather than from a Global South perspective.",
+      "convergence_score": 4,
+      "convergence_note": "The sources debate the wisdom and design of militant democracy but share a constitutionalist frame, and the material does not supply a genuine mainstream/Global South fault line on this topic.",
+      "mainstream_sources": [
+        {
+          "title": "Militant Democracy (American-German Institute)",
+          "url": "https://americangerman.institute/2026/07/militant-democracy"
+        },
+        {
+          "title": "The Double-Edged Sword of Militant Democracy: Party Bans and the Risk of Political Instrumentalization (I-CONnect Blog)",
+          "url": "https://www.iconnectblog.com/the-double-edged-sword-of-militant-democracy-party-bans-and-the-risk-of-political-instrumentalization"
+        },
+        {
+          "title": "'Only a Vigilant Democracy Can Be a Resilient Democracy' (Verfassungsblog)",
+          "url": "https://verfassungsblog.de/only-a-vigilant-democracy-can-be-a-resilient-democracy"
+        }
+      ],
+      "global_south_sources": []
+    }
+  ]
+}
